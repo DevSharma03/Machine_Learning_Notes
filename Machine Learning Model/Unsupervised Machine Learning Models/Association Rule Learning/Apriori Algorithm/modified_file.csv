@@ -1,0 +1,1000 @@
+id,item 1,item 2,item 3,item 4,item 5,item 6,item 7,item 8,item 9,item 10,item 11,item 12,item 13,item 14,item 15,item 16,item 17
+0,,Bread,,,Corn,Dill,,Ice cream,,,,,Sugar,,Yogurt,chocolate
+1,,,,,,,,,,Milk,,,,,,
+2,Apple,,Butter,,,Dill,,Ice cream,,Milk,,,,,Yogurt,chocolate
+3,,,Butter,Cheese,,Dill,,,,Milk,Nutmeg,Onion,,,,
+4,Apple,Bread,,,,,,,,,,,,,,
+5,Apple,Bread,Butter,Cheese,,Dill,,Ice cream,,,Nutmeg,,,Unicorn,Yogurt,chocolate
+6,,,Butter,,,,Eggs,Ice cream,Kidney Beans,Milk,Nutmeg,Onion,,,Yogurt,
+7,Apple,,,Cheese,,,Eggs,,,,Nutmeg,,Sugar,,Yogurt,
+8,Apple,,,,Corn,Dill,Eggs,Ice cream,,Milk,Nutmeg,Onion,Sugar,Unicorn,Yogurt,chocolate
+9,Apple,,,,,Dill,Eggs,Ice cream,,Milk,,Onion,Sugar,Unicorn,,chocolate
+10,Apple,Bread,,Cheese,,,,Ice cream,,,,,Sugar,Unicorn,,
+11,Apple,Bread,,Cheese,,Dill,Eggs,Ice cream,Kidney Beans,,Nutmeg,,Sugar,,Yogurt,chocolate
+12,,,,,,,,,,,,Onion,,Unicorn,,chocolate
+13,,,,,,,,Ice cream,,,,,Sugar,,Yogurt,
+14,,,Butter,,,,,,Kidney Beans,,,,,,,
+15,,,,,,,,,,,,,,,Yogurt,
+16,Apple,Bread,Butter,Cheese,,,,Ice cream,,,Nutmeg,,Sugar,,,
+17,Apple,,,,,,Eggs,,,,,,,,Yogurt,chocolate
+18,,Bread,,Cheese,,,,,Kidney Beans,,,,Sugar,,,
+19,,Bread,,,Corn,,,Ice cream,Kidney Beans,Milk,Nutmeg,,Sugar,Unicorn,,
+20,Apple,,,Cheese,,,,Ice cream,,,,,Sugar,Unicorn,,
+21,Apple,,Butter,Cheese,,,,,Kidney Beans,,,,,Unicorn,Yogurt,
+22,,Bread,,Cheese,,Dill,Eggs,Ice cream,Kidney Beans,Milk,,,,Unicorn,Yogurt,chocolate
+23,,Bread,Butter,Cheese,,,Eggs,Ice cream,Kidney Beans,,,,Sugar,Unicorn,,chocolate
+24,,Bread,,,Corn,,Eggs,,Kidney Beans,Milk,Nutmeg,Onion,,Unicorn,Yogurt,
+25,,Bread,Butter,,,,Eggs,,,Milk,,,,,Yogurt,chocolate
+26,,Bread,Butter,Cheese,Corn,,,,Kidney Beans,Milk,,,,Unicorn,,chocolate
+27,,Bread,Butter,,,,,,,,,,,,,
+28,,Bread,Butter,,,,,,Kidney Beans,Milk,Nutmeg,,,Unicorn,Yogurt,chocolate
+29,Apple,Bread,,,,,,Ice cream,,,,Onion,,,Yogurt,
+30,,,,,Corn,Dill,,,,Milk,,,,Unicorn,,chocolate
+31,Apple,Bread,Butter,,,Dill,,,,Milk,,,,Unicorn,Yogurt,
+32,,,,Cheese,,,Eggs,,Kidney Beans,,,,,,,
+33,,,,,,Dill,,,,Milk,Nutmeg,,Sugar,,,
+34,,Bread,,,,Dill,,Ice cream,,,,Onion,,,,chocolate
+35,,,,Cheese,,Dill,Eggs,,,,,Onion,,Unicorn,,chocolate
+36,Apple,,,Cheese,Corn,Dill,,Ice cream,Kidney Beans,,Nutmeg,Onion,,Unicorn,Yogurt,chocolate
+37,,,,,Corn,,Eggs,Ice cream,,Milk,Nutmeg,,,,,chocolate
+38,,,Butter,,,,,,Kidney Beans,,,,Sugar,,,
+39,,Bread,,Cheese,Corn,,Eggs,Ice cream,,,Nutmeg,,,,Yogurt,
+40,Apple,Bread,Butter,Cheese,Corn,,Eggs,,Kidney Beans,,,,,Unicorn,,chocolate
+41,,Bread,Butter,,,,,,,,,,,,Yogurt,chocolate
+42,,Bread,,,,,,,,,,Onion,,,,
+43,Apple,Bread,,,Corn,Dill,,Ice cream,Kidney Beans,Milk,,Onion,,,,chocolate
+44,,,,,,,,Ice cream,,,,,Sugar,,,
+45,,Bread,,,Corn,Dill,Eggs,Ice cream,,Milk,,,,Unicorn,,
+46,,,,,,,,,,,,Onion,,,,
+47,Apple,,,,,,,,,,,Onion,,,,chocolate
+48,,Bread,,,,Dill,,,,,,,Sugar,,Yogurt,chocolate
+49,,Bread,Butter,Cheese,,Dill,Eggs,,,,Nutmeg,Onion,Sugar,,,
+50,Apple,,Butter,Cheese,Corn,Dill,,,Kidney Beans,Milk,,,,Unicorn,,chocolate
+51,Apple,Bread,Butter,,,,,,,,,Onion,Sugar,Unicorn,,chocolate
+52,Apple,,,,Corn,,Eggs,Ice cream,Kidney Beans,,Nutmeg,,Sugar,Unicorn,,
+53,,,,,,Dill,,,,,,,Sugar,Unicorn,,
+54,Apple,,,,,,,,,,,,,,,
+55,,Bread,,,,,,Ice cream,,,Nutmeg,,,Unicorn,,
+56,,Bread,,,Corn,Dill,,,Kidney Beans,Milk,Nutmeg,,,,Yogurt,chocolate
+57,,,,,,,,Ice cream,Kidney Beans,,,,,,Yogurt,
+58,Apple,,,Cheese,,Dill,,Ice cream,Kidney Beans,Milk,Nutmeg,,,,,
+59,,,,,,,,,,,,,,,Yogurt,chocolate
+60,Apple,,,,,,,,,Milk,,Onion,,,,chocolate
+61,Apple,Bread,,Cheese,,,,,Kidney Beans,Milk,Nutmeg,,Sugar,,Yogurt,
+62,,Bread,Butter,Cheese,Corn,Dill,Eggs,,,Milk,Nutmeg,,,,Yogurt,chocolate
+63,,,,,,,,,,,,,,,Yogurt,
+64,,,,,,,,Ice cream,,Milk,,Onion,Sugar,Unicorn,,chocolate
+65,Apple,Bread,,,Corn,Dill,Eggs,Ice cream,,Milk,,Onion,Sugar,Unicorn,Yogurt,
+66,Apple,,Butter,,Corn,,,Ice cream,Kidney Beans,,Nutmeg,Onion,Sugar,,Yogurt,chocolate
+67,,Bread,,Cheese,,Dill,,Ice cream,Kidney Beans,Milk,,Onion,Sugar,Unicorn,Yogurt,chocolate
+68,,,,,,,,,,,,,,Unicorn,,
+69,,Bread,,Cheese,Corn,Dill,Eggs,,,Milk,,,,,Yogurt,
+70,,,,,,Dill,,Ice cream,,,,,Sugar,Unicorn,,chocolate
+71,,Bread,,,,Dill,Eggs,Ice cream,Kidney Beans,,,,,,Yogurt,chocolate
+72,Apple,,,,Corn,,Eggs,,Kidney Beans,,Nutmeg,,Sugar,,,chocolate
+73,,,Butter,,Corn,,,Ice cream,,,Nutmeg,Onion,Sugar,Unicorn,Yogurt,chocolate
+74,,,,,,,,,,,,Onion,,,,
+75,Apple,Bread,,Cheese,Corn,Dill,,Ice cream,,Milk,,,,Unicorn,,chocolate
+76,Apple,,,,,,Eggs,Ice cream,,,Nutmeg,,,,,
+77,Apple,Bread,Butter,,,Dill,,,,,Nutmeg,Onion,,,Yogurt,chocolate
+78,,,,Cheese,,Dill,,Ice cream,Kidney Beans,,Nutmeg,Onion,Sugar,,,chocolate
+79,,,Butter,Cheese,,,,Ice cream,,,Nutmeg,,,,,
+80,,,,Cheese,,,Eggs,,,,,Onion,,Unicorn,Yogurt,
+81,,Bread,Butter,Cheese,,Dill,Eggs,,,,,Onion,,Unicorn,Yogurt,
+82,Apple,,Butter,,Corn,,,,,,,,Sugar,,,
+83,Apple,,,,,,,,,,,,,,,
+84,Apple,Bread,Butter,Cheese,Corn,,,Ice cream,Kidney Beans,Milk,Nutmeg,,,Unicorn,Yogurt,
+85,Apple,,Butter,,,,,,,Milk,,Onion,Sugar,,Yogurt,chocolate
+86,Apple,,,,Corn,Dill,,,Kidney Beans,Milk,Nutmeg,,,,,chocolate
+87,,,Butter,,,,Eggs,,Kidney Beans,,Nutmeg,Onion,Sugar,Unicorn,Yogurt,
+88,Apple,,,Cheese,,Dill,,Ice cream,,,,,,,,chocolate
+89,Apple,,,Cheese,Corn,Dill,Eggs,,Kidney Beans,,Nutmeg,Onion,Sugar,Unicorn,Yogurt,chocolate
+90,Apple,Bread,Butter,,Corn,Dill,,,Kidney Beans,,Nutmeg,Onion,Sugar,Unicorn,Yogurt,chocolate
+91,,,,Cheese,Corn,Dill,Eggs,Ice cream,Kidney Beans,Milk,Nutmeg,Onion,,,Yogurt,chocolate
+92,Apple,,Butter,,Corn,Dill,,,,,,Onion,Sugar,Unicorn,Yogurt,chocolate
+93,,Bread,Butter,Cheese,Corn,,Eggs,Ice cream,,,Nutmeg,Onion,,,Yogurt,chocolate
+94,Apple,,,,,Dill,,,,Milk,Nutmeg,Onion,,,Yogurt,
+95,,Bread,,,Corn,Dill,,,,Milk,,Onion,,,,
+96,Apple,,Butter,,Corn,Dill,,,Kidney Beans,,Nutmeg,,,,Yogurt,
+97,,,,,,,,,,,,,,,Yogurt,
+98,Apple,,Butter,,Corn,,Eggs,,Kidney Beans,Milk,,Onion,Sugar,Unicorn,Yogurt,
+99,,Bread,Butter,Cheese,Corn,,Eggs,,Kidney Beans,Milk,,Onion,Sugar,,Yogurt,chocolate
+100,,Bread,,,,,Eggs,,,,,,,,,
+101,,Bread,Butter,Cheese,,,,Ice cream,,Milk,,,Sugar,,,chocolate
+102,,,,Cheese,,,Eggs,,,,,,Sugar,,Yogurt,chocolate
+103,,Bread,,,,,,,,,,,,Unicorn,,
+104,,Bread,,Cheese,,,Eggs,Ice cream,,,Nutmeg,Onion,Sugar,Unicorn,,
+105,,,,,Corn,,Eggs,,,Milk,,,,,,
+106,Apple,,,Cheese,,Dill,Eggs,,Kidney Beans,,,Onion,,Unicorn,,chocolate
+107,,,,,,,,,Kidney Beans,,,,,Unicorn,Yogurt,
+108,,,,,,,,,,,,,,,Yogurt,
+109,,,,,,,,,,,Nutmeg,,,,,
+110,Apple,,,Cheese,Corn,Dill,,,,Milk,Nutmeg,Onion,,,Yogurt,
+111,Apple,Bread,Butter,Cheese,Corn,Dill,,,,,,Onion,Sugar,Unicorn,Yogurt,chocolate
+112,Apple,Bread,,,Corn,,Eggs,Ice cream,Kidney Beans,Milk,Nutmeg,,,,,chocolate
+113,,,Butter,,,,Eggs,,Kidney Beans,Milk,Nutmeg,Onion,,,,
+114,Apple,Bread,,Cheese,,Dill,Eggs,,,,Nutmeg,Onion,Sugar,,Yogurt,
+115,Apple,,,Cheese,,,Eggs,,Kidney Beans,,,,,,,
+116,,Bread,Butter,,Corn,,Eggs,Ice cream,,,,Onion,Sugar,Unicorn,,
+117,Apple,Bread,Butter,Cheese,,,,,,Milk,,Onion,Sugar,,,chocolate
+118,Apple,,,Cheese,Corn,Dill,,Ice cream,,,,,Sugar,,Yogurt,
+119,,,,,Corn,,Eggs,,,,Nutmeg,Onion,,Unicorn,Yogurt,chocolate
+120,,,Butter,Cheese,,Dill,,Ice cream,,,,,Sugar,,,
+121,,,,Cheese,,,,,,,Nutmeg,Onion,,,Yogurt,
+122,,,Butter,,Corn,,,Ice cream,Kidney Beans,,,,,Unicorn,Yogurt,
+123,,Bread,,,Corn,Dill,Eggs,,Kidney Beans,,Nutmeg,,,,Yogurt,chocolate
+124,,,,Cheese,,,,,,,,,,,,
+125,,Bread,Butter,,,Dill,Eggs,,,,,,,,Yogurt,
+126,Apple,,,,,,,Ice cream,,,,Onion,,,Yogurt,chocolate
+127,,,,,,,,,Kidney Beans,,Nutmeg,,Sugar,,,chocolate
+128,Apple,,Butter,Cheese,Corn,,Eggs,,,Milk,Nutmeg,Onion,Sugar,Unicorn,Yogurt,
+129,,Bread,Butter,,Corn,,,Ice cream,Kidney Beans,Milk,Nutmeg,Onion,Sugar,,Yogurt,chocolate
+130,Apple,,Butter,,,,,,,,,,,Unicorn,Yogurt,chocolate
+131,Apple,Bread,Butter,,,Dill,,,,Milk,Nutmeg,,Sugar,,,chocolate
+132,Apple,,,Cheese,,Dill,Eggs,,,,Nutmeg,Onion,Sugar,Unicorn,Yogurt,
+133,,,,Cheese,,Dill,Eggs,,Kidney Beans,Milk,Nutmeg,,,Unicorn,,chocolate
+134,,,,,,,,,Kidney Beans,,Nutmeg,,Sugar,,,
+135,,,Butter,Cheese,Corn,Dill,,Ice cream,Kidney Beans,,Nutmeg,Onion,,,Yogurt,
+136,,Bread,Butter,,,Dill,Eggs,Ice cream,,Milk,,Onion,,Unicorn,Yogurt,chocolate
+137,Apple,,,,Corn,Dill,Eggs,,,Milk,,,,,Yogurt,chocolate
+138,,,,,,,,,Kidney Beans,,,,,,,
+139,,,,Cheese,Corn,,,,Kidney Beans,Milk,,Onion,,,,
+140,Apple,,Butter,Cheese,Corn,Dill,,Ice cream,Kidney Beans,Milk,Nutmeg,,Sugar,Unicorn,,chocolate
+141,Apple,Bread,Butter,,Corn,,,,,Milk,Nutmeg,,,Unicorn,Yogurt,
+142,,,,Cheese,,Dill,Eggs,,,,,,,Unicorn,,
+143,Apple,Bread,,,Corn,,Eggs,Ice cream,Kidney Beans,,,Onion,Sugar,,Yogurt,
+144,,,,,,,,,Kidney Beans,Milk,Nutmeg,,Sugar,Unicorn,Yogurt,
+145,,Bread,Butter,Cheese,Corn,,,,Kidney Beans,Milk,Nutmeg,Onion,Sugar,Unicorn,,
+146,,,,,,Dill,,Ice cream,,Milk,,Onion,Sugar,,,
+147,,,,,Corn,Dill,,Ice cream,Kidney Beans,,Nutmeg,,Sugar,Unicorn,,chocolate
+148,Apple,Bread,,Cheese,,,Eggs,,,,,,,,,chocolate
+149,,,,,,,Eggs,,,,Nutmeg,,Sugar,Unicorn,Yogurt,
+150,Apple,Bread,Butter,,Corn,,,Ice cream,,,Nutmeg,Onion,Sugar,Unicorn,Yogurt,
+151,,,,Cheese,Corn,,,Ice cream,Kidney Beans,,Nutmeg,,Sugar,,Yogurt,
+152,,,,,,,,,Kidney Beans,,,,,,,
+153,,,,,,,,,,,,,,Unicorn,,
+154,,,,Cheese,,,,,Kidney Beans,Milk,,,Sugar,Unicorn,,
+155,,,,,Corn,,,,Kidney Beans,,,,Sugar,Unicorn,,
+156,,Bread,Butter,,Corn,,,,Kidney Beans,,,,,,Yogurt,
+157,Apple,,Butter,,,Dill,Eggs,Ice cream,Kidney Beans,Milk,,Onion,Sugar,,Yogurt,
+158,,,,,Corn,,,,,,,,,,,
+159,Apple,,,,Corn,,,,,Milk,Nutmeg,,Sugar,,,
+160,,,,,,Dill,,,,,,,,,,
+161,,,,,Corn,,Eggs,Ice cream,Kidney Beans,,Nutmeg,,,Unicorn,,chocolate
+162,,,,,,,Eggs,,Kidney Beans,Milk,Nutmeg,,Sugar,Unicorn,,
+163,,,Butter,,Corn,Dill,Eggs,Ice cream,,Milk,,Onion,Sugar,Unicorn,Yogurt,chocolate
+164,Apple,,Butter,,Corn,Dill,Eggs,Ice cream,,,,,Sugar,Unicorn,,chocolate
+165,,,,,,,,,,,,,,,Yogurt,
+166,Apple,Bread,Butter,Cheese,Corn,,Eggs,Ice cream,Kidney Beans,,Nutmeg,,Sugar,Unicorn,,chocolate
+167,,Bread,,,,Dill,,,,,Nutmeg,Onion,,Unicorn,Yogurt,
+168,,,,,,,,Ice cream,,,,,,,,
+169,Apple,Bread,,,,,,,,,,,,,,
+170,,Bread,Butter,,,,Eggs,Ice cream,Kidney Beans,,Nutmeg,,Sugar,,,chocolate
+171,Apple,,Butter,Cheese,,Dill,,Ice cream,Kidney Beans,,Nutmeg,,Sugar,Unicorn,Yogurt,
+172,,,,,,,,,,,,Onion,,,,chocolate
+173,,Bread,,,,,Eggs,,,,,,Sugar,,,chocolate
+174,,Bread,,Cheese,,,,,,,,Onion,,,,chocolate
+175,,,Butter,Cheese,,,,,,,Nutmeg,,,,,
+176,,,Butter,Cheese,,Dill,Eggs,,Kidney Beans,Milk,Nutmeg,,,Unicorn,Yogurt,
+177,,Bread,,Cheese,Corn,,,,,Milk,Nutmeg,,Sugar,,Yogurt,chocolate
+178,,Bread,,,,,,,Kidney Beans,,,,,,,
+179,,,,,,,,Ice cream,,Milk,,,,,,chocolate
+180,,,Butter,Cheese,Corn,Dill,,,,Milk,,,Sugar,Unicorn,,chocolate
+181,Apple,,Butter,Cheese,,,Eggs,,,,,Onion,Sugar,,Yogurt,chocolate
+182,,,,,,Dill,,,,,Nutmeg,,,,,
+183,Apple,Bread,Butter,,Corn,,Eggs,,Kidney Beans,Milk,Nutmeg,Onion,,Unicorn,Yogurt,chocolate
+184,,,Butter,,,,,,,,Nutmeg,,,,,chocolate
+185,,,Butter,Cheese,,,,Ice cream,Kidney Beans,Milk,Nutmeg,Onion,,Unicorn,Yogurt,chocolate
+186,Apple,,Butter,Cheese,,Dill,Eggs,Ice cream,Kidney Beans,Milk,Nutmeg,Onion,,Unicorn,Yogurt,chocolate
+187,,,,,Corn,,,Ice cream,,,Nutmeg,Onion,,Unicorn,Yogurt,chocolate
+188,Apple,,Butter,Cheese,Corn,Dill,,,Kidney Beans,,,,Sugar,Unicorn,Yogurt,
+189,Apple,Bread,,,Corn,Dill,,,Kidney Beans,Milk,Nutmeg,,Sugar,Unicorn,Yogurt,chocolate
+190,Apple,,,Cheese,Corn,,,Ice cream,Kidney Beans,,,,,,Yogurt,
+191,Apple,,,Cheese,,,,,,Milk,,,,,,
+192,Apple,Bread,Butter,Cheese,,Dill,,Ice cream,,,Nutmeg,Onion,Sugar,,,chocolate
+193,,,,Cheese,Corn,,Eggs,,Kidney Beans,,,Onion,,Unicorn,Yogurt,
+194,,,Butter,Cheese,,Dill,Eggs,Ice cream,,,,Onion,,Unicorn,,chocolate
+195,,,,,Corn,Dill,,,,Milk,,,,,,
+196,Apple,Bread,,Cheese,Corn,Dill,Eggs,,,Milk,,Onion,Sugar,Unicorn,,
+197,,Bread,Butter,Cheese,,,Eggs,,Kidney Beans,Milk,Nutmeg,Onion,,,,
+198,Apple,,,,,,,Ice cream,,Milk,,,,,,chocolate
+199,,,Butter,Cheese,,Dill,,Ice cream,Kidney Beans,Milk,,,Sugar,,Yogurt,
+200,,,,,,Dill,,Ice cream,,,Nutmeg,Onion,,,,chocolate
+201,,,Butter,,,,,Ice cream,,Milk,,,Sugar,Unicorn,,chocolate
+202,,Bread,Butter,,,Dill,Eggs,Ice cream,Kidney Beans,Milk,,Onion,,Unicorn,,
+203,,,,,,,,Ice cream,,,,,,Unicorn,,
+204,,Bread,,Cheese,,Dill,Eggs,Ice cream,Kidney Beans,,,,,Unicorn,Yogurt,
+205,Apple,,,,Corn,,,,,,,,Sugar,,,
+206,,,,Cheese,Corn,,,,,Milk,,,Sugar,,Yogurt,chocolate
+207,,,,Cheese,,,,,Kidney Beans,,Nutmeg,Onion,Sugar,Unicorn,,
+208,,,,,,,,,,,Nutmeg,,Sugar,Unicorn,Yogurt,
+209,,Bread,Butter,Cheese,,Dill,,Ice cream,,,Nutmeg,Onion,,Unicorn,,chocolate
+210,Apple,Bread,Butter,,Corn,Dill,Eggs,Ice cream,Kidney Beans,,,,Sugar,,Yogurt,
+211,Apple,Bread,Butter,,Corn,,,Ice cream,Kidney Beans,,,,,,,chocolate
+212,,Bread,Butter,Cheese,,,Eggs,,,Milk,Nutmeg,,,,Yogurt,chocolate
+213,,,,,,,Eggs,,,,,,,,,
+214,,,Butter,,,,Eggs,,Kidney Beans,Milk,,Onion,,,Yogurt,chocolate
+215,,,Butter,,,Dill,,,,,Nutmeg,,Sugar,Unicorn,,chocolate
+216,,Bread,Butter,Cheese,Corn,,Eggs,Ice cream,,Milk,Nutmeg,Onion,,,,chocolate
+217,Apple,,,,Corn,,Eggs,Ice cream,,,Nutmeg,,,,,
+218,Apple,Bread,,,,Dill,,,,,Nutmeg,,Sugar,Unicorn,,
+219,,,,,,Dill,,,,,,Onion,,,,
+220,,,,,,,Eggs,Ice cream,,,Nutmeg,Onion,,,,chocolate
+221,Apple,Bread,,,,,Eggs,,Kidney Beans,Milk,Nutmeg,Onion,Sugar,,Yogurt,
+222,,,,Cheese,,,Eggs,,Kidney Beans,,,,,,,chocolate
+223,,Bread,Butter,,,Dill,,,,,Nutmeg,Onion,,,Yogurt,chocolate
+224,Apple,,Butter,Cheese,Corn,Dill,Eggs,Ice cream,Kidney Beans,Milk,Nutmeg,,Sugar,Unicorn,,
+225,Apple,,Butter,,,,Eggs,Ice cream,,Milk,,,Sugar,,,
+226,,,,Cheese,Corn,,Eggs,,,,,,Sugar,Unicorn,Yogurt,
+227,,Bread,,,,,,,,,,,,Unicorn,,
+228,Apple,,Butter,Cheese,Corn,Dill,Eggs,Ice cream,,,Nutmeg,Onion,Sugar,Unicorn,,
+229,Apple,,,,Corn,,,,,,,,,,,
+230,,Bread,,,Corn,Dill,,,,Milk,,,,,,chocolate
+231,Apple,,,Cheese,Corn,Dill,,,,,Nutmeg,,Sugar,,,
+232,,,Butter,,,,,Ice cream,,Milk,,,,,Yogurt,chocolate
+233,,,,Cheese,Corn,,,,,,Nutmeg,,Sugar,,,
+234,Apple,Bread,,,,,,,,,,,,,,
+235,,,,,,Dill,,,,,,,,,,
+236,,,,,,,,Ice cream,,,Nutmeg,,Sugar,Unicorn,,
+237,,,,,Corn,,,,,,,Onion,,,,
+238,Apple,Bread,Butter,Cheese,Corn,,,Ice cream,Kidney Beans,Milk,Nutmeg,Onion,Sugar,,Yogurt,chocolate
+239,,Bread,Butter,,Corn,,,,,,,,,Unicorn,Yogurt,
+240,,Bread,,,,,,,,,,,,Unicorn,Yogurt,
+241,Apple,Bread,,,Corn,Dill,,,,Milk,,,,,,chocolate
+242,,,,,,Dill,,,,,,,,,,
+243,Apple,,Butter,Cheese,,,,Ice cream,Kidney Beans,Milk,,,Sugar,Unicorn,Yogurt,chocolate
+244,,Bread,,,,Dill,Eggs,Ice cream,,,,,Sugar,,,
+245,Apple,,,Cheese,Corn,,,,,Milk,Nutmeg,Onion,,Unicorn,Yogurt,chocolate
+246,,,Butter,,Corn,,,,Kidney Beans,,,Onion,,,,
+247,Apple,,,,Corn,Dill,,,,,Nutmeg,Onion,,,,
+248,,Bread,,Cheese,,,Eggs,,,Milk,Nutmeg,,,Unicorn,,
+249,Apple,,Butter,Cheese,,,,Ice cream,Kidney Beans,Milk,,,,,,chocolate
+250,,,Butter,,Corn,Dill,Eggs,Ice cream,,,Nutmeg,Onion,,,Yogurt,chocolate
+251,Apple,Bread,Butter,Cheese,,,,Ice cream,Kidney Beans,,,Onion,Sugar,,,
+252,,,Butter,,,,,,,,,,,,,
+253,,Bread,Butter,,,Dill,,,,,Nutmeg,,,Unicorn,Yogurt,
+254,,Bread,,,Corn,,,,,,,,,,Yogurt,
+255,Apple,,Butter,,Corn,Dill,,Ice cream,Kidney Beans,Milk,Nutmeg,Onion,,,,chocolate
+256,,,,,Corn,,,,,,,,,,Yogurt,
+257,Apple,,Butter,Cheese,Corn,,,Ice cream,Kidney Beans,,Nutmeg,,Sugar,Unicorn,,chocolate
+258,,,,Cheese,,,,,,,,,,,,
+259,,,Butter,,,,,Ice cream,Kidney Beans,Milk,,,Sugar,Unicorn,,chocolate
+260,,,,,Corn,,Eggs,,Kidney Beans,Milk,Nutmeg,,,,,
+261,Apple,,,Cheese,Corn,Dill,,,Kidney Beans,Milk,,Onion,Sugar,Unicorn,,chocolate
+262,Apple,Bread,Butter,Cheese,Corn,Dill,Eggs,Ice cream,,,,Onion,,Unicorn,,
+263,Apple,,,Cheese,Corn,Dill,Eggs,,,,Nutmeg,Onion,Sugar,Unicorn,,chocolate
+264,,,,,Corn,Dill,,,,,,,,,,
+265,Apple,,,,,,,,,,,,,,,
+266,,,Butter,,,,,Ice cream,Kidney Beans,,,,,,,
+267,Apple,Bread,,Cheese,Corn,Dill,Eggs,,Kidney Beans,Milk,,Onion,Sugar,Unicorn,Yogurt,
+268,,Bread,,Cheese,Corn,,,Ice cream,Kidney Beans,,Nutmeg,,Sugar,Unicorn,Yogurt,chocolate
+269,,,,,,,,,Kidney Beans,,,,,,,
+270,Apple,Bread,,,Corn,,,,,Milk,Nutmeg,Onion,,,Yogurt,
+271,,Bread,Butter,Cheese,Corn,,Eggs,,,,Nutmeg,Onion,,,Yogurt,chocolate
+272,,,,,Corn,,,,Kidney Beans,Milk,,,,Unicorn,,
+273,Apple,Bread,,Cheese,,,,Ice cream,,,Nutmeg,Onion,,Unicorn,,
+274,,,,Cheese,,Dill,,,Kidney Beans,,Nutmeg,Onion,Sugar,,,
+275,Apple,,Butter,,Corn,Dill,,,Kidney Beans,Milk,,Onion,,Unicorn,,
+276,Apple,Bread,Butter,,Corn,,Eggs,Ice cream,,,,,Sugar,Unicorn,Yogurt,
+277,,,Butter,Cheese,,,Eggs,Ice cream,Kidney Beans,,,Onion,,Unicorn,Yogurt,
+278,,Bread,Butter,,Corn,,,,,Milk,,,,Unicorn,Yogurt,
+279,Apple,Bread,Butter,,Corn,,,Ice cream,,,,,Sugar,Unicorn,Yogurt,
+280,,,,,Corn,Dill,,Ice cream,,Milk,Nutmeg,Onion,,,,
+281,,Bread,Butter,,Corn,,Eggs,,Kidney Beans,,,Onion,Sugar,,Yogurt,chocolate
+282,,Bread,Butter,Cheese,,,,,,,,Onion,Sugar,,Yogurt,
+283,,,Butter,Cheese,Corn,,,Ice cream,,Milk,,,,Unicorn,Yogurt,
+284,Apple,Bread,Butter,,Corn,,Eggs,Ice cream,,,Nutmeg,Onion,Sugar,,,chocolate
+285,,,,,,,Eggs,,,,,,,Unicorn,Yogurt,
+286,Apple,,Butter,,,,Eggs,,Kidney Beans,,Nutmeg,,Sugar,,Yogurt,
+287,Apple,Bread,,,,Dill,Eggs,Ice cream,,Milk,Nutmeg,,Sugar,,Yogurt,chocolate
+288,Apple,Bread,Butter,,,Dill,,,Kidney Beans,Milk,Nutmeg,Onion,,Unicorn,,chocolate
+289,,Bread,,Cheese,,Dill,,,,Milk,,Onion,,,,chocolate
+290,,,Butter,Cheese,Corn,,Eggs,Ice cream,Kidney Beans,,,,,,Yogurt,chocolate
+291,Apple,Bread,,,,Dill,,,,Milk,,Onion,Sugar,Unicorn,,chocolate
+292,,,Butter,Cheese,,Dill,Eggs,,Kidney Beans,,Nutmeg,,,Unicorn,,chocolate
+293,,,Butter,,Corn,,Eggs,,Kidney Beans,,Nutmeg,Onion,,,Yogurt,chocolate
+294,,,Butter,Cheese,Corn,Dill,,Ice cream,Kidney Beans,Milk,,Onion,,,,chocolate
+295,Apple,,Butter,Cheese,,,,,,,,,Sugar,Unicorn,Yogurt,chocolate
+296,Apple,,,Cheese,Corn,,,,,,,,,,,chocolate
+297,,,,Cheese,Corn,Dill,,Ice cream,,,Nutmeg,Onion,,Unicorn,Yogurt,chocolate
+298,Apple,,,,Corn,,,,Kidney Beans,,,,,,,
+299,Apple,,,Cheese,,,Eggs,Ice cream,Kidney Beans,Milk,,Onion,Sugar,Unicorn,Yogurt,chocolate
+300,,Bread,,Cheese,,Dill,Eggs,,Kidney Beans,,Nutmeg,,Sugar,,Yogurt,chocolate
+301,,Bread,,Cheese,,,,,,,,,,,,chocolate
+302,Apple,,,Cheese,Corn,Dill,Eggs,Ice cream,,,,Onion,Sugar,,Yogurt,
+303,,Bread,,,Corn,,Eggs,,,,Nutmeg,Onion,,Unicorn,,chocolate
+304,,,,Cheese,Corn,,,Ice cream,,,Nutmeg,,Sugar,,,
+305,,,,,,Dill,,,Kidney Beans,,,,,,,
+306,Apple,,Butter,,,,Eggs,,Kidney Beans,Milk,Nutmeg,,Sugar,,Yogurt,
+307,Apple,,Butter,,Corn,,Eggs,,,Milk,Nutmeg,Onion,Sugar,,Yogurt,chocolate
+308,Apple,,Butter,Cheese,Corn,,,Ice cream,Kidney Beans,,,Onion,,Unicorn,,
+309,,,,,Corn,Dill,,Ice cream,,Milk,,,Sugar,Unicorn,,chocolate
+310,Apple,,,,,Dill,,Ice cream,Kidney Beans,,,,,,,chocolate
+311,Apple,,Butter,Cheese,,Dill,Eggs,,,Milk,,,Sugar,,,chocolate
+312,,,Butter,,Corn,Dill,,Ice cream,Kidney Beans,Milk,Nutmeg,,Sugar,,Yogurt,
+313,Apple,Bread,Butter,Cheese,,Dill,Eggs,,,Milk,,Onion,Sugar,,,
+314,Apple,Bread,,,Corn,Dill,Eggs,Ice cream,,Milk,,Onion,Sugar,Unicorn,Yogurt,chocolate
+315,Apple,Bread,Butter,Cheese,Corn,Dill,Eggs,Ice cream,Kidney Beans,Milk,,,,,Yogurt,chocolate
+316,Apple,,Butter,Cheese,,,Eggs,,Kidney Beans,,Nutmeg,Onion,,,,
+317,,Bread,,Cheese,Corn,,,,Kidney Beans,Milk,,,Sugar,,Yogurt,
+318,,,,,Corn,,Eggs,,,,,,,Unicorn,Yogurt,chocolate
+319,,,,Cheese,,Dill,,Ice cream,Kidney Beans,,,,Sugar,,Yogurt,chocolate
+320,,Bread,,Cheese,Corn,Dill,,Ice cream,Kidney Beans,,,Onion,,,,
+321,,,,,,Dill,Eggs,,,,,Onion,,Unicorn,,chocolate
+322,,,,,,Dill,,,,,,Onion,,,Yogurt,
+323,,,Butter,Cheese,Corn,Dill,Eggs,Ice cream,Kidney Beans,Milk,Nutmeg,Onion,,Unicorn,Yogurt,
+324,,,Butter,,,Dill,Eggs,Ice cream,,,Nutmeg,,,,,chocolate
+325,Apple,,Butter,,,,Eggs,,,Milk,Nutmeg,Onion,Sugar,Unicorn,,
+326,Apple,Bread,Butter,,Corn,,Eggs,Ice cream,,,Nutmeg,Onion,Sugar,Unicorn,Yogurt,chocolate
+327,,,,,Corn,Dill,Eggs,Ice cream,Kidney Beans,Milk,,Onion,,,Yogurt,
+328,Apple,,Butter,,Corn,,,,Kidney Beans,Milk,,Onion,,Unicorn,,
+329,,Bread,,,,Dill,,,Kidney Beans,,,Onion,Sugar,Unicorn,Yogurt,
+330,Apple,,Butter,Cheese,,,,,Kidney Beans,,,,Sugar,,,
+331,,,,Cheese,,,,Ice cream,,,,Onion,,,Yogurt,
+332,,Bread,Butter,,,Dill,,Ice cream,,Milk,Nutmeg,Onion,Sugar,,,chocolate
+333,,,Butter,Cheese,,,,Ice cream,Kidney Beans,,Nutmeg,,,Unicorn,Yogurt,
+334,Apple,,Butter,,Corn,,,Ice cream,Kidney Beans,,,Onion,Sugar,Unicorn,,
+335,Apple,Bread,,Cheese,Corn,,Eggs,,Kidney Beans,Milk,,,,Unicorn,,
+336,,,,Cheese,,,,,,Milk,Nutmeg,,Sugar,Unicorn,Yogurt,chocolate
+337,,Bread,,Cheese,,,,,,,,,,,,chocolate
+338,Apple,,Butter,Cheese,Corn,Dill,,,Kidney Beans,,,Onion,,Unicorn,Yogurt,chocolate
+339,Apple,,,,Corn,,,Ice cream,,,Nutmeg,Onion,Sugar,,Yogurt,
+340,,Bread,Butter,,,Dill,,,,Milk,Nutmeg,Onion,Sugar,,,
+341,,,Butter,Cheese,Corn,,Eggs,Ice cream,,Milk,,Onion,,,,
+342,,,,,,,Eggs,Ice cream,Kidney Beans,Milk,,,Sugar,Unicorn,Yogurt,
+343,Apple,,Butter,Cheese,,Dill,,,Kidney Beans,Milk,,,Sugar,,Yogurt,chocolate
+344,Apple,,,,,,,Ice cream,,Milk,,,,Unicorn,,
+345,,,Butter,,,,,,Kidney Beans,Milk,,,,,,
+346,Apple,,,Cheese,Corn,,Eggs,,,Milk,Nutmeg,Onion,,Unicorn,Yogurt,
+347,,Bread,,,Corn,,,,Kidney Beans,Milk,,,Sugar,,,chocolate
+348,,,,Cheese,Corn,,,,Kidney Beans,,,Onion,,,,
+349,,Bread,,Cheese,Corn,Dill,,,Kidney Beans,Milk,,,Sugar,Unicorn,Yogurt,chocolate
+350,Apple,Bread,Butter,Cheese,,,,Ice cream,,Milk,,,Sugar,,Yogurt,chocolate
+351,Apple,,Butter,,,Dill,Eggs,Ice cream,Kidney Beans,Milk,Nutmeg,,Sugar,Unicorn,,chocolate
+352,Apple,,,,,,Eggs,,,,,,,,,
+353,,Bread,,,,Dill,Eggs,Ice cream,,Milk,Nutmeg,Onion,Sugar,Unicorn,Yogurt,
+354,Apple,Bread,Butter,Cheese,,,Eggs,,,Milk,Nutmeg,,,,Yogurt,
+355,,,Butter,Cheese,Corn,Dill,,,Kidney Beans,,,Onion,,,Yogurt,chocolate
+356,,,,,Corn,,,,,,,,,,,
+357,,,Butter,Cheese,,Dill,,Ice cream,,Milk,Nutmeg,,Sugar,,,chocolate
+358,Apple,Bread,Butter,,Corn,,,,,,Nutmeg,Onion,Sugar,,Yogurt,
+359,,,Butter,,Corn,,Eggs,,Kidney Beans,Milk,Nutmeg,,Sugar,Unicorn,,chocolate
+360,Apple,,Butter,,Corn,Dill,,Ice cream,Kidney Beans,,,,Sugar,,,chocolate
+361,,,,,Corn,,Eggs,,,,Nutmeg,,,,Yogurt,
+362,Apple,,Butter,Cheese,Corn,Dill,Eggs,,Kidney Beans,,Nutmeg,Onion,,,Yogurt,
+363,Apple,,Butter,Cheese,Corn,,,Ice cream,Kidney Beans,,Nutmeg,,Sugar,Unicorn,,chocolate
+364,Apple,,,,,,,,,,,Onion,,,,
+365,,,,,,,,,,,,,Sugar,,,
+366,,,,,,Dill,Eggs,,,,,,Sugar,,,
+367,,Bread,Butter,,,,,,,Milk,Nutmeg,,,,,
+368,,Bread,Butter,Cheese,Corn,Dill,Eggs,Ice cream,,Milk,,Onion,Sugar,Unicorn,,
+369,,Bread,Butter,Cheese,Corn,,,Ice cream,Kidney Beans,Milk,Nutmeg,,,,Yogurt,chocolate
+370,,,,,Corn,Dill,,Ice cream,,,,,,Unicorn,,
+371,,Bread,,Cheese,,,,,Kidney Beans,Milk,,,,Unicorn,,
+372,Apple,,,,,,,Ice cream,Kidney Beans,Milk,Nutmeg,,,Unicorn,Yogurt,
+373,,Bread,Butter,,,,Eggs,,Kidney Beans,,,,Sugar,Unicorn,,
+374,,,,,Corn,,,,,,Nutmeg,,,Unicorn,,
+375,Apple,,,Cheese,Corn,,Eggs,,Kidney Beans,Milk,,,,,Yogurt,chocolate
+376,Apple,Bread,,Cheese,Corn,,Eggs,Ice cream,,,,Onion,Sugar,Unicorn,,chocolate
+377,Apple,Bread,Butter,Cheese,,Dill,Eggs,,Kidney Beans,,,Onion,,,Yogurt,chocolate
+378,,Bread,Butter,,,,,Ice cream,Kidney Beans,,,,Sugar,Unicorn,Yogurt,
+379,Apple,Bread,Butter,,Corn,,Eggs,Ice cream,,,Nutmeg,Onion,Sugar,Unicorn,,chocolate
+380,,,Butter,Cheese,,Dill,Eggs,,Kidney Beans,Milk,Nutmeg,Onion,,,,
+381,,,,Cheese,Corn,,,,,Milk,,,,Unicorn,Yogurt,
+382,,Bread,Butter,Cheese,Corn,Dill,Eggs,,Kidney Beans,,,Onion,Sugar,Unicorn,,chocolate
+383,,,Butter,Cheese,Corn,Dill,Eggs,Ice cream,Kidney Beans,,Nutmeg,Onion,Sugar,Unicorn,Yogurt,chocolate
+384,,,Butter,,Corn,,,,,Milk,,,Sugar,Unicorn,Yogurt,
+385,Apple,Bread,Butter,Cheese,Corn,,Eggs,,,,Nutmeg,Onion,Sugar,,Yogurt,chocolate
+386,Apple,Bread,,,Corn,,,,,,,,,,Yogurt,
+387,,,,Cheese,,,,Ice cream,Kidney Beans,,Nutmeg,,,,,
+388,,Bread,,Cheese,Corn,Dill,,Ice cream,,Milk,,Onion,Sugar,,Yogurt,chocolate
+389,Apple,,,,,Dill,Eggs,Ice cream,,,Nutmeg,,Sugar,,,chocolate
+390,,,,,,Dill,,,,,,Onion,Sugar,,,chocolate
+391,Apple,Bread,Butter,Cheese,,,,Ice cream,,,Nutmeg,Onion,,Unicorn,Yogurt,
+392,,,,Cheese,,Dill,Eggs,Ice cream,Kidney Beans,,,Onion,,,,chocolate
+393,,,Butter,Cheese,,,,Ice cream,Kidney Beans,Milk,,Onion,Sugar,,Yogurt,
+394,,Bread,,Cheese,,,,Ice cream,Kidney Beans,,Nutmeg,,Sugar,Unicorn,Yogurt,
+395,Apple,,,,Corn,Dill,,Ice cream,Kidney Beans,,Nutmeg,,,,Yogurt,chocolate
+396,,,,,,Dill,,,,,,,,,Yogurt,
+397,,Bread,Butter,,,Dill,Eggs,,Kidney Beans,,Nutmeg,Onion,,Unicorn,Yogurt,
+398,Apple,,,,,,,,,,,,,,,
+399,,,Butter,,,Dill,,,Kidney Beans,Milk,Nutmeg,,Sugar,Unicorn,Yogurt,chocolate
+400,,Bread,,,Corn,,,Ice cream,,,,Onion,Sugar,,,
+401,Apple,,,,,,Eggs,Ice cream,,Milk,,Onion,Sugar,,Yogurt,
+402,,Bread,Butter,Cheese,Corn,,Eggs,,Kidney Beans,Milk,Nutmeg,Onion,,Unicorn,Yogurt,
+403,,,Butter,Cheese,,,,Ice cream,,,,,Sugar,,Yogurt,chocolate
+404,Apple,Bread,Butter,,,Dill,,,Kidney Beans,Milk,Nutmeg,Onion,Sugar,,Yogurt,
+405,,,,,,,Eggs,,,,,,Sugar,,Yogurt,
+406,Apple,Bread,Butter,Cheese,,Dill,,Ice cream,,,Nutmeg,Onion,,Unicorn,,
+407,,,,,,,Eggs,Ice cream,,Milk,Nutmeg,Onion,Sugar,,,chocolate
+408,,,,Cheese,,,,,,,,,,,,
+409,,,,,,Dill,,Ice cream,Kidney Beans,Milk,Nutmeg,Onion,Sugar,Unicorn,,chocolate
+410,,,Butter,Cheese,Corn,Dill,Eggs,Ice cream,,Milk,Nutmeg,Onion,,Unicorn,,chocolate
+411,,,,,Corn,,Eggs,Ice cream,Kidney Beans,,Nutmeg,Onion,,,Yogurt,chocolate
+412,,,,,,,,Ice cream,,,,,,,Yogurt,chocolate
+413,,Bread,Butter,,,,Eggs,Ice cream,,Milk,,Onion,,Unicorn,Yogurt,chocolate
+414,Apple,,Butter,Cheese,Corn,,,Ice cream,,,Nutmeg,,,Unicorn,,
+415,,,Butter,Cheese,,,,,,Milk,,,,Unicorn,,
+416,,Bread,,,Corn,,Eggs,Ice cream,Kidney Beans,,,Onion,,,Yogurt,
+417,,,,,,Dill,,,,Milk,,,,,,
+418,Apple,,,,,,,Ice cream,,Milk,,Onion,Sugar,,Yogurt,chocolate
+419,,,Butter,,Corn,,,,Kidney Beans,Milk,,Onion,Sugar,Unicorn,Yogurt,
+420,,,,Cheese,Corn,,,,,,Nutmeg,Onion,,Unicorn,Yogurt,chocolate
+421,Apple,,Butter,,,Dill,,,,Milk,Nutmeg,,Sugar,,Yogurt,
+422,Apple,Bread,Butter,Cheese,,,Eggs,Ice cream,,,Nutmeg,Onion,Sugar,,Yogurt,
+423,Apple,,Butter,,Corn,,Eggs,,,,Nutmeg,,Sugar,Unicorn,,
+424,Apple,,,,,,,,,,,,,,,
+425,Apple,Bread,,Cheese,Corn,Dill,,Ice cream,Kidney Beans,Milk,Nutmeg,Onion,Sugar,Unicorn,,
+426,Apple,,,,,Dill,Eggs,,,,Nutmeg,Onion,Sugar,,,
+427,Apple,,,,Corn,,,,Kidney Beans,,,,,Unicorn,Yogurt,chocolate
+428,,Bread,,Cheese,,Dill,,,,,,,,,Yogurt,
+429,,Bread,Butter,Cheese,,,,Ice cream,Kidney Beans,Milk,Nutmeg,Onion,Sugar,,Yogurt,
+430,,,,Cheese,Corn,Dill,Eggs,,Kidney Beans,,Nutmeg,Onion,,,,
+431,,,Butter,Cheese,Corn,Dill,,Ice cream,,,Nutmeg,Onion,,Unicorn,,chocolate
+432,Apple,,Butter,Cheese,,,,Ice cream,,Milk,Nutmeg,Onion,Sugar,,,chocolate
+433,,Bread,Butter,Cheese,,,,,,Milk,,Onion,Sugar,Unicorn,,
+434,Apple,Bread,,,,,Eggs,Ice cream,Kidney Beans,Milk,,Onion,Sugar,Unicorn,Yogurt,
+435,Apple,,,,,Dill,,,,,,Onion,Sugar,,Yogurt,chocolate
+436,Apple,,,,,,,Ice cream,,Milk,Nutmeg,,,,Yogurt,chocolate
+437,Apple,,Butter,,Corn,Dill,Eggs,,,Milk,,,Sugar,,Yogurt,
+438,Apple,,Butter,,,Dill,,Ice cream,,,,,,,,
+439,,,,,,,Eggs,,,,,,,Unicorn,,
+440,,,,,,Dill,,,,Milk,,Onion,Sugar,,Yogurt,chocolate
+441,,Bread,Butter,,,Dill,,Ice cream,Kidney Beans,Milk,,Onion,,,,
+442,Apple,Bread,Butter,Cheese,Corn,,Eggs,,Kidney Beans,Milk,Nutmeg,,Sugar,Unicorn,,
+443,,,,,,Dill,,,,,,,,,Yogurt,
+444,,,Butter,,Corn,,,,,,,Onion,Sugar,,,
+445,Apple,,Butter,,,Dill,,,,Milk,,Onion,Sugar,Unicorn,Yogurt,chocolate
+446,Apple,Bread,Butter,Cheese,Corn,,Eggs,Ice cream,,,Nutmeg,Onion,Sugar,,,
+447,,,,Cheese,,,,,,,,,,,,
+448,,,,Cheese,Corn,Dill,Eggs,Ice cream,,,,,,Unicorn,Yogurt,
+449,Apple,,,Cheese,Corn,,Eggs,Ice cream,,Milk,,Onion,,,,
+450,,Bread,,Cheese,,Dill,,Ice cream,,Milk,Nutmeg,,Sugar,,Yogurt,chocolate
+451,,,Butter,Cheese,,,,Ice cream,,,Nutmeg,,,Unicorn,,
+452,,,,Cheese,,Dill,,,,,Nutmeg,,,,,
+453,,Bread,Butter,,,Dill,,,Kidney Beans,,,Onion,Sugar,Unicorn,Yogurt,
+454,,,,,,,,,Kidney Beans,,,Onion,,,,chocolate
+455,Apple,Bread,,,Corn,,,,Kidney Beans,Milk,Nutmeg,Onion,,Unicorn,Yogurt,chocolate
+456,,,Butter,Cheese,Corn,Dill,Eggs,,,,Nutmeg,Onion,,,,
+457,,Bread,,,,,Eggs,,,Milk,Nutmeg,Onion,Sugar,Unicorn,Yogurt,
+458,,,Butter,Cheese,Corn,,,Ice cream,Kidney Beans,,,Onion,,,,
+459,,Bread,,,Corn,,,,Kidney Beans,Milk,Nutmeg,Onion,Sugar,Unicorn,Yogurt,chocolate
+460,,,Butter,,Corn,,Eggs,Ice cream,,,,Onion,,,,chocolate
+461,Apple,,,,Corn,Dill,Eggs,,Kidney Beans,Milk,,,,,Yogurt,chocolate
+462,,Bread,Butter,Cheese,Corn,Dill,,,Kidney Beans,,,Onion,,,,
+463,,,,Cheese,Corn,Dill,,Ice cream,Kidney Beans,Milk,Nutmeg,Onion,Sugar,Unicorn,,chocolate
+464,,,,,,,,,Kidney Beans,,,,,,,
+465,,,Butter,,Corn,,Eggs,,,,,,,Unicorn,,chocolate
+466,Apple,Bread,,Cheese,Corn,,,Ice cream,Kidney Beans,Milk,,,,,,
+467,Apple,Bread,,,Corn,,Eggs,,Kidney Beans,,Nutmeg,Onion,Sugar,Unicorn,Yogurt,chocolate
+468,Apple,,Butter,,Corn,Dill,,Ice cream,,,,,,,Yogurt,
+469,Apple,Bread,,,,Dill,Eggs,,,,Nutmeg,,,,Yogurt,chocolate
+470,Apple,,,,,,,,Kidney Beans,,,,Sugar,Unicorn,,chocolate
+471,Apple,,,,,Dill,,,,,Nutmeg,,,,Yogurt,
+472,Apple,,Butter,Cheese,,Dill,,Ice cream,Kidney Beans,,Nutmeg,,Sugar,,Yogurt,chocolate
+473,,Bread,,Cheese,Corn,,Eggs,,,,Nutmeg,,Sugar,,,chocolate
+474,,,,Cheese,Corn,,Eggs,,,,,,,Unicorn,,
+475,Apple,Bread,,Cheese,Corn,Dill,,Ice cream,Kidney Beans,Milk,,,,,,chocolate
+476,Apple,,Butter,,Corn,,Eggs,,,,Nutmeg,,Sugar,,,chocolate
+477,,Bread,,Cheese,Corn,Dill,,Ice cream,Kidney Beans,,Nutmeg,Onion,,,Yogurt,
+478,Apple,Bread,,Cheese,Corn,Dill,Eggs,,Kidney Beans,Milk,,,Sugar,Unicorn,Yogurt,chocolate
+479,Apple,,,Cheese,,Dill,Eggs,,,,Nutmeg,Onion,,,,
+480,Apple,Bread,,,Corn,,,,Kidney Beans,Milk,Nutmeg,,Sugar,Unicorn,Yogurt,chocolate
+481,Apple,,,Cheese,Corn,Dill,,Ice cream,,Milk,Nutmeg,,Sugar,Unicorn,Yogurt,chocolate
+482,,Bread,,,Corn,Dill,Eggs,Ice cream,Kidney Beans,,,,,,Yogurt,chocolate
+483,,,,,,Dill,,,,,,,,Unicorn,,
+484,Apple,,,Cheese,Corn,Dill,Eggs,,Kidney Beans,Milk,Nutmeg,Onion,Sugar,Unicorn,,chocolate
+485,,,,Cheese,Corn,,,,,,,Onion,Sugar,Unicorn,,
+486,,Bread,,Cheese,,,,Ice cream,,Milk,Nutmeg,Onion,,,,
+487,Apple,Bread,Butter,Cheese,,,,Ice cream,Kidney Beans,,Nutmeg,,Sugar,,,chocolate
+488,Apple,,,Cheese,,Dill,,,,,Nutmeg,,,,,
+489,,,,,,Dill,,Ice cream,,,,,,,,
+490,Apple,,,,Corn,Dill,,Ice cream,Kidney Beans,,,,,Unicorn,Yogurt,
+491,,,,,,,,,Kidney Beans,,,Onion,,,,
+492,,Bread,,,,,Eggs,Ice cream,Kidney Beans,Milk,,Onion,Sugar,,Yogurt,chocolate
+493,,,Butter,,,,,,Kidney Beans,,Nutmeg,,,,,
+494,Apple,,Butter,Cheese,Corn,,,Ice cream,Kidney Beans,Milk,,Onion,Sugar,Unicorn,,chocolate
+495,,,,Cheese,,,,,,,,,,,,
+496,,,Butter,,,,,,,Milk,,,Sugar,,Yogurt,
+497,,Bread,Butter,Cheese,Corn,Dill,Eggs,,Kidney Beans,Milk,Nutmeg,Onion,,Unicorn,,chocolate
+498,Apple,,Butter,Cheese,Corn,Dill,Eggs,,Kidney Beans,Milk,Nutmeg,,Sugar,,,chocolate
+499,,,,,,Dill,,,,,,,Sugar,Unicorn,,
+500,,,,Cheese,Corn,Dill,,Ice cream,,,Nutmeg,Onion,,Unicorn,Yogurt,chocolate
+501,,,,,Corn,,,,,Milk,,,Sugar,,,
+502,,,,,Corn,Dill,,Ice cream,,,,,Sugar,Unicorn,,
+503,,,Butter,Cheese,,,,Ice cream,,,,,,Unicorn,Yogurt,chocolate
+504,Apple,Bread,Butter,,Corn,Dill,,,Kidney Beans,,,,,,,chocolate
+505,,Bread,,Cheese,,,,Ice cream,Kidney Beans,,,,,,,
+506,Apple,,Butter,,,,,Ice cream,Kidney Beans,Milk,,,,Unicorn,,chocolate
+507,,,,,,Dill,,,,,Nutmeg,,,,Yogurt,
+508,,,,,,,,,Kidney Beans,Milk,,,,,Yogurt,chocolate
+509,Apple,,Butter,,,Dill,Eggs,,Kidney Beans,,,,,,,
+510,Apple,,,,Corn,,Eggs,,Kidney Beans,,Nutmeg,,,Unicorn,Yogurt,
+511,,,,,,,Eggs,,,,,Onion,Sugar,,,
+512,,,Butter,,,,Eggs,,,Milk,Nutmeg,Onion,,,,
+513,,,,Cheese,,,,,Kidney Beans,,,,Sugar,,,
+514,Apple,,Butter,,,,Eggs,Ice cream,Kidney Beans,Milk,,,,,Yogurt,
+515,Apple,,Butter,,,,Eggs,Ice cream,,Milk,Nutmeg,Onion,,,Yogurt,chocolate
+516,Apple,,Butter,Cheese,Corn,Dill,Eggs,Ice cream,,Milk,,Onion,Sugar,,,chocolate
+517,,,,,Corn,Dill,Eggs,,Kidney Beans,Milk,,Onion,Sugar,Unicorn,,chocolate
+518,,Bread,,Cheese,,,Eggs,Ice cream,,,,,,,,chocolate
+519,,,Butter,Cheese,,Dill,Eggs,,,,,,,,,
+520,,Bread,,,,Dill,Eggs,,,Milk,,,,,Yogurt,chocolate
+521,Apple,Bread,Butter,,Corn,Dill,Eggs,,Kidney Beans,Milk,,,Sugar,,,chocolate
+522,Apple,,,,,,,,Kidney Beans,Milk,,Onion,,,Yogurt,
+523,,,,Cheese,,Dill,,,,Milk,,Onion,Sugar,,,chocolate
+524,,Bread,,,,,,,,,,,,Unicorn,,
+525,,Bread,Butter,,,Dill,,Ice cream,,,,Onion,,,Yogurt,
+526,Apple,Bread,,Cheese,Corn,Dill,Eggs,,,,,,,,Yogurt,
+527,,,,Cheese,,,,,,,,,,,,
+528,,Bread,,Cheese,,Dill,,Ice cream,,Milk,,Onion,Sugar,Unicorn,,chocolate
+529,,,,Cheese,,,,,Kidney Beans,,,,,,,
+530,Apple,,Butter,,,,,,,Milk,,,,,,chocolate
+531,,,,Cheese,,Dill,,,Kidney Beans,Milk,Nutmeg,Onion,,,,chocolate
+532,Apple,,,,,,,,Kidney Beans,,,,,,,
+533,,Bread,,,Corn,Dill,,Ice cream,,,,Onion,,,Yogurt,chocolate
+534,Apple,,,Cheese,Corn,Dill,,,,Milk,,,,Unicorn,Yogurt,
+535,,,,,,Dill,,,,,,Onion,,,Yogurt,
+536,,,,,Corn,,Eggs,Ice cream,Kidney Beans,Milk,,Onion,,Unicorn,,
+537,,,,Cheese,,Dill,Eggs,Ice cream,Kidney Beans,Milk,Nutmeg,,Sugar,Unicorn,Yogurt,chocolate
+538,,Bread,,Cheese,,,,,Kidney Beans,,Nutmeg,,,Unicorn,Yogurt,
+539,,Bread,,,,Dill,Eggs,,,Milk,,,Sugar,Unicorn,Yogurt,
+540,,Bread,Butter,,,Dill,,Ice cream,Kidney Beans,Milk,,,,Unicorn,,
+541,,Bread,Butter,,,,Eggs,Ice cream,Kidney Beans,,Nutmeg,,,Unicorn,,chocolate
+542,Apple,,,Cheese,Corn,Dill,,Ice cream,,Milk,Nutmeg,Onion,Sugar,,,
+543,,,,,Corn,Dill,,,Kidney Beans,,,,,,,
+544,Apple,Bread,,Cheese,Corn,Dill,Eggs,,,,,Onion,Sugar,,,
+545,,Bread,Butter,Cheese,,Dill,,Ice cream,,,,,,,Yogurt,
+546,Apple,,,,Corn,Dill,,Ice cream,Kidney Beans,,,,,Unicorn,Yogurt,
+547,,,Butter,,,,,,,,,,,,,chocolate
+548,,,Butter,,,,,,,,,,,,,chocolate
+549,,Bread,,,,Dill,,Ice cream,,,,Onion,Sugar,Unicorn,Yogurt,
+550,Apple,,Butter,Cheese,,,,,,Milk,,,Sugar,,Yogurt,
+551,Apple,Bread,Butter,,Corn,,Eggs,Ice cream,Kidney Beans,Milk,Nutmeg,,,Unicorn,Yogurt,
+552,Apple,,Butter,,Corn,Dill,,Ice cream,,Milk,,Onion,Sugar,Unicorn,Yogurt,chocolate
+553,,,Butter,,,,Eggs,Ice cream,,,Nutmeg,,,,,
+554,,,,,Corn,,Eggs,,Kidney Beans,Milk,Nutmeg,Onion,,Unicorn,,chocolate
+555,,,,Cheese,,Dill,,Ice cream,,,,,,Unicorn,Yogurt,chocolate
+556,Apple,,,Cheese,,,,Ice cream,Kidney Beans,,,,,,,
+557,,,Butter,,,Dill,,Ice cream,Kidney Beans,,,Onion,,,,
+558,,,Butter,,,,,Ice cream,Kidney Beans,,Nutmeg,,Sugar,,Yogurt,
+559,,,,Cheese,,,,,Kidney Beans,,,,,Unicorn,,chocolate
+560,,Bread,,,Corn,,,,,,,,,,,
+561,,Bread,,Cheese,,,,,,,,,,,Yogurt,
+562,Apple,Bread,Butter,Cheese,,,,,Kidney Beans,Milk,,,,Unicorn,,chocolate
+563,Apple,,,,,Dill,Eggs,Ice cream,Kidney Beans,Milk,,Onion,Sugar,Unicorn,Yogurt,chocolate
+564,,,,Cheese,,,,,,,,Onion,Sugar,,,
+565,,,,,,,,,Kidney Beans,,,Onion,,,,
+566,,Bread,,Cheese,,,,Ice cream,,,Nutmeg,Onion,,,Yogurt,
+567,,Bread,,,Corn,,,,,Milk,Nutmeg,Onion,,,Yogurt,chocolate
+568,Apple,,Butter,,,Dill,,,,,,,,Unicorn,Yogurt,chocolate
+569,Apple,Bread,Butter,,,Dill,Eggs,,,Milk,Nutmeg,Onion,,,Yogurt,chocolate
+570,Apple,Bread,Butter,Cheese,,Dill,,,Kidney Beans,,Nutmeg,Onion,,,,
+571,Apple,Bread,Butter,,,Dill,,Ice cream,,Milk,Nutmeg,,Sugar,,Yogurt,
+572,,,Butter,,Corn,,Eggs,Ice cream,,Milk,Nutmeg,,,Unicorn,,chocolate
+573,,Bread,,,Corn,Dill,,,,Milk,,Onion,Sugar,Unicorn,Yogurt,
+574,Apple,,Butter,Cheese,,Dill,,Ice cream,Kidney Beans,,,Onion,Sugar,Unicorn,Yogurt,chocolate
+575,,,,Cheese,,,,,Kidney Beans,,,,Sugar,Unicorn,,
+576,Apple,,Butter,,Corn,Dill,,,,Milk,Nutmeg,,,,,
+577,,Bread,,Cheese,,,Eggs,Ice cream,Kidney Beans,Milk,,,Sugar,Unicorn,Yogurt,chocolate
+578,,,,Cheese,,Dill,,Ice cream,Kidney Beans,,Nutmeg,Onion,Sugar,,,
+579,Apple,,Butter,Cheese,,Dill,,,Kidney Beans,Milk,Nutmeg,Onion,,Unicorn,,
+580,,,,,,,,,,,Nutmeg,,,,,
+581,,,,,,Dill,,,,,,,,,,
+582,,,Butter,,Corn,,,,Kidney Beans,Milk,Nutmeg,,,,,
+583,Apple,Bread,Butter,Cheese,Corn,,,,Kidney Beans,Milk,Nutmeg,,Sugar,,,
+584,,Bread,,Cheese,,,,,,,Nutmeg,Onion,Sugar,,,
+585,Apple,,,Cheese,,Dill,,Ice cream,,,Nutmeg,Onion,,,,chocolate
+586,,,Butter,,Corn,Dill,Eggs,,Kidney Beans,Milk,,,Sugar,,Yogurt,chocolate
+587,,,,Cheese,Corn,,,Ice cream,,,,,Sugar,,,
+588,,,Butter,,Corn,,Eggs,,Kidney Beans,Milk,,,,Unicorn,,
+589,,,,,,,,,,,,Onion,Sugar,,,
+590,,Bread,Butter,,,,,,Kidney Beans,,,Onion,Sugar,,,
+591,,,Butter,,Corn,Dill,,Ice cream,,,,Onion,Sugar,Unicorn,,
+592,,Bread,Butter,Cheese,Corn,Dill,Eggs,Ice cream,Kidney Beans,Milk,,,Sugar,,Yogurt,chocolate
+593,Apple,,,Cheese,Corn,,Eggs,Ice cream,,Milk,Nutmeg,Onion,Sugar,,,
+594,Apple,Bread,Butter,,,Dill,,Ice cream,,Milk,,,Sugar,Unicorn,Yogurt,chocolate
+595,,Bread,Butter,Cheese,,,Eggs,Ice cream,Kidney Beans,,,,,,,chocolate
+596,,,Butter,,Corn,Dill,Eggs,Ice cream,Kidney Beans,,,Onion,,Unicorn,Yogurt,
+597,,Bread,,Cheese,,,,Ice cream,,,,,,,,
+598,,,,,,,,Ice cream,,,,,,,,
+599,,,,,,,,Ice cream,Kidney Beans,Milk,,Onion,Sugar,,,
+600,,Bread,Butter,,,,Eggs,Ice cream,,,,Onion,,,Yogurt,
+601,,,,,,,,,,,Nutmeg,,,,,
+602,,Bread,,,Corn,,,,,,Nutmeg,Onion,,,,
+603,,,,,,,,,,Milk,,,,,,
+604,,,Butter,,,Dill,Eggs,,,Milk,Nutmeg,Onion,,Unicorn,Yogurt,chocolate
+605,,,Butter,,Corn,,,Ice cream,Kidney Beans,,,Onion,,,Yogurt,chocolate
+606,Apple,Bread,,,Corn,,,Ice cream,,,,,,Unicorn,,
+607,Apple,Bread,,,Corn,,Eggs,,,Milk,,,Sugar,,Yogurt,chocolate
+608,,Bread,,,Corn,Dill,Eggs,Ice cream,,,,,Sugar,,Yogurt,
+609,,,,,,,Eggs,,,,,Onion,,,,chocolate
+610,,Bread,,,Corn,Dill,Eggs,,,,,Onion,Sugar,Unicorn,Yogurt,
+611,,,Butter,Cheese,Corn,,Eggs,,Kidney Beans,,,Onion,,Unicorn,Yogurt,chocolate
+612,,,Butter,,,,Eggs,,,Milk,,,,Unicorn,,
+613,,,,,,,Eggs,,,,,,,Unicorn,,
+614,Apple,,,Cheese,,Dill,Eggs,Ice cream,Kidney Beans,Milk,Nutmeg,Onion,Sugar,,,chocolate
+615,,,,,,,,Ice cream,,,,,,,,
+616,Apple,,Butter,Cheese,,,,,,Milk,Nutmeg,Onion,,,,
+617,,,Butter,,Corn,,Eggs,,,Milk,,,Sugar,,,chocolate
+618,,,,,Corn,,,Ice cream,Kidney Beans,,,Onion,,,,
+619,,,Butter,,,,Eggs,,,,,,Sugar,,,
+620,Apple,Bread,,Cheese,Corn,,Eggs,Ice cream,,Milk,Nutmeg,,Sugar,Unicorn,Yogurt,
+621,,Bread,,,,,Eggs,,,,,,Sugar,,,chocolate
+622,,,,Cheese,,Dill,,,,,Nutmeg,,,,,
+623,,Bread,Butter,,,,Eggs,Ice cream,,,Nutmeg,Onion,Sugar,Unicorn,Yogurt,chocolate
+624,Apple,Bread,Butter,,Corn,Dill,Eggs,Ice cream,Kidney Beans,Milk,Nutmeg,Onion,Sugar,,Yogurt,
+625,Apple,,,Cheese,,,,,,Milk,,,,,Yogurt,
+626,,,,,Corn,,Eggs,Ice cream,,,,,,,,
+627,,,Butter,,,,,Ice cream,,,Nutmeg,,,Unicorn,Yogurt,
+628,Apple,Bread,Butter,,Corn,Dill,,Ice cream,,,Nutmeg,,Sugar,Unicorn,Yogurt,chocolate
+629,,,Butter,Cheese,Corn,Dill,Eggs,Ice cream,Kidney Beans,,,,Sugar,Unicorn,,
+630,,Bread,,,,,,,,,,,,Unicorn,,
+631,,,,,,,,,,,,Onion,,,,
+632,,Bread,,,,,,Ice cream,,,,,,,,chocolate
+633,Apple,,,,,,,,,,,Onion,Sugar,Unicorn,,chocolate
+634,,Bread,Butter,,Corn,Dill,,Ice cream,,Milk,,,Sugar,,,
+635,,,,Cheese,Corn,Dill,Eggs,Ice cream,,Milk,,Onion,,,,chocolate
+636,Apple,,Butter,,Corn,Dill,,,,Milk,,,,,,
+637,Apple,,Butter,,,,,,,Milk,Nutmeg,,,Unicorn,,
+638,,,,Cheese,,,,,,,,,Sugar,,,
+639,Apple,,,,,Dill,,Ice cream,,,Nutmeg,,,Unicorn,,
+640,,Bread,Butter,,,,,Ice cream,Kidney Beans,Milk,,Onion,Sugar,Unicorn,,
+641,,,,,,,,,,Milk,Nutmeg,Onion,Sugar,,,chocolate
+642,,,Butter,,Corn,Dill,,Ice cream,,,Nutmeg,Onion,Sugar,,,
+643,,,Butter,,,,,,,,Nutmeg,,,,,
+644,,,Butter,Cheese,Corn,Dill,Eggs,,,Milk,,Onion,,,,chocolate
+645,,,,Cheese,,,,,,,Nutmeg,,Sugar,,,
+646,Apple,Bread,,,,Dill,,Ice cream,Kidney Beans,,,Onion,Sugar,Unicorn,Yogurt,chocolate
+647,Apple,,,,Corn,Dill,,,,Milk,,,Sugar,,Yogurt,chocolate
+648,Apple,,Butter,,,,Eggs,Ice cream,,Milk,,Onion,,,,
+649,,Bread,,Cheese,,,,Ice cream,Kidney Beans,Milk,Nutmeg,Onion,,Unicorn,,chocolate
+650,Apple,,Butter,,,,,,,,,Onion,,,,
+651,Apple,,Butter,Cheese,Corn,Dill,,Ice cream,,,Nutmeg,Onion,,,Yogurt,
+652,Apple,Bread,Butter,Cheese,,Dill,,Ice cream,Kidney Beans,,Nutmeg,Onion,,,Yogurt,chocolate
+653,,,,Cheese,Corn,,Eggs,,,Milk,,,,Unicorn,Yogurt,chocolate
+654,,,Butter,Cheese,,,Eggs,,Kidney Beans,Milk,Nutmeg,Onion,,,Yogurt,
+655,Apple,Bread,Butter,,,Dill,Eggs,,,,,,,,,
+656,Apple,Bread,Butter,,,Dill,Eggs,Ice cream,,,,,Sugar,,Yogurt,chocolate
+657,,,Butter,Cheese,Corn,Dill,,Ice cream,Kidney Beans,,Nutmeg,Onion,,,Yogurt,
+658,Apple,,,,,Dill,,,Kidney Beans,,Nutmeg,,,,Yogurt,
+659,,,Butter,Cheese,,,Eggs,,,,Nutmeg,Onion,,,,
+660,,Bread,,,,,,,Kidney Beans,Milk,,,,,,
+661,,Bread,,,Corn,,Eggs,,,Milk,,,,,,chocolate
+662,,Bread,Butter,Cheese,Corn,Dill,,Ice cream,,,,,,,,
+663,,,,,Corn,,,,,,,,,,,
+664,,,Butter,,,,,Ice cream,Kidney Beans,,Nutmeg,,,Unicorn,,chocolate
+665,Apple,,Butter,,,,Eggs,Ice cream,Kidney Beans,Milk,Nutmeg,Onion,,,Yogurt,chocolate
+666,Apple,,Butter,Cheese,Corn,,Eggs,,Kidney Beans,Milk,Nutmeg,,,,Yogurt,chocolate
+667,,Bread,,Cheese,,Dill,,,Kidney Beans,,Nutmeg,Onion,Sugar,Unicorn,Yogurt,chocolate
+668,,Bread,Butter,,Corn,,,,,,Nutmeg,,Sugar,,Yogurt,
+669,,Bread,,Cheese,,,Eggs,,,,Nutmeg,,Sugar,,Yogurt,
+670,Apple,Bread,,Cheese,Corn,,Eggs,,Kidney Beans,,,Onion,Sugar,Unicorn,Yogurt,chocolate
+671,Apple,,,,,,,,,,,,,,,
+672,Apple,Bread,,Cheese,,Dill,,Ice cream,Kidney Beans,,Nutmeg,Onion,,Unicorn,,chocolate
+673,Apple,Bread,,Cheese,Corn,Dill,,Ice cream,,Milk,,,,,,
+674,,,,Cheese,,Dill,Eggs,,Kidney Beans,Milk,,Onion,Sugar,Unicorn,,chocolate
+675,,Bread,,,,,Eggs,,,Milk,,,,,,chocolate
+676,,,,,,Dill,Eggs,,,Milk,,,,Unicorn,Yogurt,chocolate
+677,,,,Cheese,,,,,,,,,,Unicorn,,chocolate
+678,Apple,,,Cheese,,,,Ice cream,Kidney Beans,Milk,Nutmeg,Onion,Sugar,,,chocolate
+679,Apple,,,Cheese,Corn,Dill,,,Kidney Beans,,,Onion,Sugar,Unicorn,Yogurt,
+680,,Bread,Butter,Cheese,Corn,,Eggs,Ice cream,Kidney Beans,Milk,,Onion,,,Yogurt,chocolate
+681,,Bread,Butter,,Corn,,,Ice cream,,,Nutmeg,Onion,Sugar,,,
+682,Apple,,,Cheese,,Dill,,Ice cream,,,,,,,,chocolate
+683,,Bread,,Cheese,Corn,,,Ice cream,,,Nutmeg,,Sugar,,,chocolate
+684,,,,,,,Eggs,Ice cream,Kidney Beans,,,,,Unicorn,Yogurt,
+685,Apple,,Butter,,,,,Ice cream,Kidney Beans,Milk,,,Sugar,Unicorn,,
+686,Apple,,Butter,,Corn,,,,Kidney Beans,Milk,Nutmeg,,Sugar,,Yogurt,
+687,,Bread,,Cheese,,Dill,,Ice cream,,Milk,,,,Unicorn,Yogurt,
+688,,,,,Corn,,Eggs,,,,,,,,Yogurt,chocolate
+689,,Bread,Butter,,Corn,Dill,,,Kidney Beans,Milk,Nutmeg,,,Unicorn,,chocolate
+690,,Bread,Butter,,Corn,,,Ice cream,Kidney Beans,Milk,Nutmeg,Onion,Sugar,,,
+691,Apple,Bread,,,,Dill,,Ice cream,,Milk,Nutmeg,Onion,,Unicorn,,chocolate
+692,,,,,,,,Ice cream,,,,,,,,
+693,,,,,Corn,Dill,Eggs,,Kidney Beans,Milk,Nutmeg,,Sugar,,,
+694,Apple,,,Cheese,,,Eggs,,Kidney Beans,,Nutmeg,Onion,,,,chocolate
+695,,Bread,,,,,Eggs,,,,,,,,,
+696,,Bread,Butter,,Corn,,Eggs,Ice cream,,Milk,,,,,,chocolate
+697,Apple,,,,Corn,,,Ice cream,,,,,,,Yogurt,
+698,,,Butter,Cheese,,,,,Kidney Beans,Milk,Nutmeg,,Sugar,,Yogurt,
+699,Apple,,Butter,,Corn,Dill,Eggs,Ice cream,Kidney Beans,,,,,Unicorn,,chocolate
+700,,Bread,Butter,,,,,,,,,Onion,,Unicorn,,
+701,Apple,Bread,,,Corn,,Eggs,Ice cream,Kidney Beans,Milk,,Onion,,Unicorn,Yogurt,
+702,Apple,Bread,,,,Dill,Eggs,,,Milk,Nutmeg,Onion,,Unicorn,,chocolate
+703,,,,,Corn,Dill,,,,,,,,,,
+704,,,Butter,,,Dill,,,Kidney Beans,Milk,,,,,,
+705,,,Butter,Cheese,Corn,,Eggs,Ice cream,,,,,Sugar,,,
+706,Apple,Bread,,Cheese,,Dill,,,Kidney Beans,Milk,Nutmeg,,,,Yogurt,
+707,Apple,,,Cheese,,,,,Kidney Beans,Milk,Nutmeg,,,,,
+708,Apple,Bread,,,Corn,,,,Kidney Beans,Milk,,Onion,,,,
+709,Apple,,,,Corn,Dill,,Ice cream,Kidney Beans,,Nutmeg,Onion,,,,chocolate
+710,,,,,,,,,Kidney Beans,Milk,,Onion,,,Yogurt,chocolate
+711,,Bread,,,,,,,,,,,,Unicorn,,
+712,,,,,,Dill,,,,,,,,,,
+713,,,Butter,,,Dill,Eggs,Ice cream,,Milk,Nutmeg,,Sugar,,Yogurt,chocolate
+714,,Bread,,,,,,,,,Nutmeg,,,,,chocolate
+715,,Bread,Butter,Cheese,Corn,,,Ice cream,,,,,Sugar,,,
+716,Apple,,Butter,,,,Eggs,,,Milk,,Onion,,Unicorn,Yogurt,
+717,Apple,Bread,,,,,,Ice cream,,,,,Sugar,Unicorn,,
+718,Apple,Bread,Butter,,Corn,Dill,,Ice cream,Kidney Beans,,,,,Unicorn,Yogurt,chocolate
+719,,,,,,,Eggs,,,,,,,,,chocolate
+720,Apple,,,,Corn,,Eggs,,,,,,,Unicorn,,chocolate
+721,Apple,,,,Corn,,,,,Milk,,,,,Yogurt,chocolate
+722,Apple,Bread,Butter,,Corn,,,,,Milk,,,,,Yogurt,chocolate
+723,,,,Cheese,,,,,,,Nutmeg,,,Unicorn,,
+724,,,,Cheese,Corn,,Eggs,,Kidney Beans,,Nutmeg,,Sugar,,,
+725,Apple,,,Cheese,Corn,Dill,Eggs,,Kidney Beans,Milk,,Onion,Sugar,,,chocolate
+726,,Bread,Butter,Cheese,,,,,,Milk,,,,,Yogurt,chocolate
+727,,,Butter,Cheese,,Dill,Eggs,Ice cream,Kidney Beans,,Nutmeg,Onion,Sugar,Unicorn,,chocolate
+728,Apple,,Butter,Cheese,Corn,Dill,,,,Milk,,Onion,,,,chocolate
+729,,,Butter,Cheese,,Dill,Eggs,,,,,,Sugar,,,
+730,,,,,Corn,,Eggs,Ice cream,,Milk,Nutmeg,,,,,
+731,,Bread,,,,,Eggs,,,,Nutmeg,,,,,
+732,,,,,,,,,,Milk,,,,,,
+733,Apple,Bread,,,,Dill,,,Kidney Beans,,Nutmeg,,Sugar,,Yogurt,chocolate
+734,Apple,,Butter,,,,Eggs,Ice cream,,Milk,Nutmeg,,,Unicorn,,chocolate
+735,,,,Cheese,,,,,,,Nutmeg,,,Unicorn,Yogurt,chocolate
+736,,,,Cheese,,,,,,,,,,,,
+737,Apple,,,,Corn,Dill,,,,Milk,,,,,Yogurt,
+738,,Bread,Butter,Cheese,Corn,Dill,,Ice cream,Kidney Beans,Milk,,Onion,,,Yogurt,
+739,Apple,,Butter,Cheese,,Dill,Eggs,Ice cream,,Milk,Nutmeg,Onion,Sugar,,,
+740,Apple,,Butter,,Corn,,Eggs,Ice cream,,,Nutmeg,Onion,Sugar,Unicorn,Yogurt,
+741,,,,Cheese,,,Eggs,Ice cream,,,,Onion,,,,
+742,,,,,,,,,,Milk,Nutmeg,,,,,chocolate
+743,,Bread,,,,Dill,,,Kidney Beans,Milk,Nutmeg,,,Unicorn,Yogurt,
+744,,,,Cheese,,Dill,,,,,,,,,Yogurt,
+745,Apple,,Butter,Cheese,Corn,,,Ice cream,Kidney Beans,,Nutmeg,,Sugar,,,chocolate
+746,,Bread,,Cheese,,Dill,Eggs,Ice cream,Kidney Beans,Milk,,,,Unicorn,,chocolate
+747,Apple,Bread,,,,,Eggs,Ice cream,Kidney Beans,Milk,,Onion,,Unicorn,,chocolate
+748,,Bread,,,,,,,Kidney Beans,,,,,,,chocolate
+749,Apple,Bread,Butter,Cheese,Corn,Dill,,,,,,Onion,,,Yogurt,
+750,,,Butter,,,,,,,Milk,,Onion,Sugar,,Yogurt,
+751,Apple,Bread,Butter,,,Dill,Eggs,Ice cream,Kidney Beans,Milk,,Onion,,Unicorn,Yogurt,
+752,,Bread,Butter,,,Dill,,Ice cream,,Milk,Nutmeg,Onion,Sugar,,Yogurt,
+753,,,Butter,Cheese,,,Eggs,,Kidney Beans,Milk,Nutmeg,,,,,chocolate
+754,,,,Cheese,,,,Ice cream,,Milk,Nutmeg,Onion,Sugar,Unicorn,,chocolate
+755,,Bread,Butter,,,Dill,Eggs,,,Milk,,Onion,,,,chocolate
+756,,Bread,,Cheese,,,Eggs,,Kidney Beans,,Nutmeg,,,,,
+757,,Bread,,Cheese,Corn,Dill,Eggs,Ice cream,Kidney Beans,,Nutmeg,Onion,Sugar,,Yogurt,
+758,,Bread,Butter,,,,,Ice cream,,,,Onion,,,,chocolate
+759,,Bread,Butter,,,Dill,,,,,Nutmeg,Onion,Sugar,,,chocolate
+760,Apple,,Butter,Cheese,,,,Ice cream,Kidney Beans,,,Onion,Sugar,Unicorn,Yogurt,
+761,,Bread,Butter,Cheese,,,,,,,Nutmeg,Onion,Sugar,,Yogurt,chocolate
+762,Apple,,,Cheese,Corn,,Eggs,,,,Nutmeg,Onion,,,,
+763,,,,Cheese,Corn,Dill,,Ice cream,Kidney Beans,Milk,Nutmeg,,,,Yogurt,
+764,Apple,Bread,Butter,Cheese,Corn,Dill,Eggs,,Kidney Beans,,Nutmeg,,Sugar,Unicorn,Yogurt,
+765,,,,,,Dill,,Ice cream,,,Nutmeg,,,,,
+766,Apple,Bread,Butter,,,,Eggs,,Kidney Beans,,Nutmeg,Onion,,,Yogurt,chocolate
+767,,,,,Corn,Dill,Eggs,Ice cream,Kidney Beans,,Nutmeg,,,,,chocolate
+768,,,,Cheese,Corn,,,Ice cream,Kidney Beans,Milk,,Onion,,Unicorn,Yogurt,
+769,,,,,,,Eggs,,,,,Onion,,,,chocolate
+770,,,,,Corn,,,,Kidney Beans,Milk,,,,Unicorn,Yogurt,
+771,,,,,,,,,Kidney Beans,,Nutmeg,,Sugar,,,chocolate
+772,Apple,,,Cheese,,Dill,Eggs,,Kidney Beans,Milk,,,,Unicorn,Yogurt,
+773,Apple,Bread,,,Corn,,,Ice cream,Kidney Beans,,,,Sugar,Unicorn,Yogurt,chocolate
+774,Apple,Bread,,,,Dill,,Ice cream,,Milk,,Onion,,Unicorn,Yogurt,chocolate
+775,,,Butter,,,,,,,,,,,Unicorn,,
+776,,,Butter,,,Dill,Eggs,,Kidney Beans,Milk,Nutmeg,Onion,Sugar,Unicorn,,chocolate
+777,Apple,Bread,Butter,,Corn,Dill,,,Kidney Beans,Milk,,Onion,Sugar,,,
+778,,,,,,,,,,Milk,,,,Unicorn,,
+779,,Bread,,Cheese,,Dill,Eggs,,,,,Onion,Sugar,,,
+780,Apple,,Butter,Cheese,,Dill,,,,,Nutmeg,,,,,
+781,,,,,,,Eggs,,,,Nutmeg,,,Unicorn,Yogurt,
+782,,,,Cheese,,Dill,Eggs,,,,,Onion,,,Yogurt,
+783,,,,,,,Eggs,,,,,,,,,
+784,,,,,,,Eggs,,,,,,Sugar,Unicorn,,
+785,,,,,,Dill,Eggs,,,,,,Sugar,Unicorn,,
+786,,,,Cheese,,,Eggs,,,,,,,,,
+787,,Bread,,Cheese,,,Eggs,,,,,,,Unicorn,,
+788,,Bread,Butter,,Corn,,,,,,,,Sugar,,,chocolate
+789,,,Butter,Cheese,Corn,,Eggs,,,,Nutmeg,,Sugar,Unicorn,Yogurt,
+790,Apple,,,Cheese,,,Eggs,,Kidney Beans,,,,Sugar,,Yogurt,
+791,Apple,Bread,,Cheese,Corn,Dill,Eggs,,,,Nutmeg,,Sugar,,Yogurt,
+792,,,,Cheese,,Dill,,,Kidney Beans,Milk,,,Sugar,,,chocolate
+793,,Bread,,,,Dill,,Ice cream,Kidney Beans,,Nutmeg,,Sugar,Unicorn,,
+794,,,,,,,,,,,,,,Unicorn,,
+795,,,,,,,Eggs,Ice cream,Kidney Beans,,,,,,,chocolate
+796,,,Butter,Cheese,Corn,,,,,Milk,Nutmeg,,Sugar,,Yogurt,
+797,,,,,,,,Ice cream,,,,,,,,
+798,,,,,,,,,Kidney Beans,,,,,,,
+799,,,,,,,,Ice cream,,,,Onion,,,Yogurt,
+800,,Bread,Butter,,Corn,,Eggs,Ice cream,,Milk,,Onion,Sugar,Unicorn,,chocolate
+801,Apple,,Butter,,Corn,Dill,,,,Milk,,Onion,Sugar,Unicorn,,chocolate
+802,,Bread,Butter,Cheese,Corn,,,,Kidney Beans,,Nutmeg,,Sugar,,,
+803,,,Butter,Cheese,Corn,,Eggs,Ice cream,,Milk,,,Sugar,Unicorn,,
+804,,Bread,,,,Dill,,Ice cream,,Milk,,,,,,
+805,Apple,Bread,Butter,Cheese,,,Eggs,,,Milk,Nutmeg,Onion,Sugar,,Yogurt,chocolate
+806,Apple,,,,,,Eggs,,,,,Onion,,,Yogurt,
+807,,,Butter,,,Dill,Eggs,,Kidney Beans,,Nutmeg,,Sugar,,Yogurt,chocolate
+808,,Bread,,Cheese,,,Eggs,Ice cream,,Milk,Nutmeg,Onion,Sugar,,Yogurt,
+809,,,,,Corn,Dill,Eggs,,,Milk,Nutmeg,,Sugar,Unicorn,,
+810,,,Butter,Cheese,,Dill,,,Kidney Beans,,,Onion,,Unicorn,,chocolate
+811,,Bread,,Cheese,Corn,Dill,Eggs,Ice cream,,,Nutmeg,,,,Yogurt,chocolate
+812,Apple,Bread,,,,,,,Kidney Beans,,,,Sugar,Unicorn,Yogurt,chocolate
+813,Apple,,,,,Dill,Eggs,,,Milk,Nutmeg,,,,,chocolate
+814,,,,,,,,,,Milk,,,,Unicorn,,
+815,,,,,,,Eggs,,,,Nutmeg,Onion,Sugar,Unicorn,Yogurt,
+816,Apple,Bread,,,,,,,,,,Onion,Sugar,Unicorn,Yogurt,chocolate
+817,,,,Cheese,,,,,,,,,,,Yogurt,
+818,Apple,,,Cheese,,,,,Kidney Beans,Milk,,,Sugar,,Yogurt,chocolate
+819,,Bread,,Cheese,Corn,,,Ice cream,,,Nutmeg,,Sugar,,,chocolate
+820,,,,Cheese,Corn,,Eggs,,Kidney Beans,,Nutmeg,Onion,,Unicorn,,
+821,,,,,,,Eggs,,Kidney Beans,,,,,,,
+822,,,,,Corn,,Eggs,Ice cream,,,,Onion,Sugar,,,
+823,,,,,,,,,,,,,Sugar,,,
+824,,Bread,Butter,,Corn,,,Ice cream,Kidney Beans,Milk,Nutmeg,Onion,Sugar,,,chocolate
+825,,,Butter,,Corn,,,,,,,,,,,chocolate
+826,Apple,,,,,,Eggs,,,,,,Sugar,,Yogurt,chocolate
+827,,,Butter,,,,,,Kidney Beans,,,,Sugar,,,chocolate
+828,,Bread,Butter,Cheese,,Dill,Eggs,,,Milk,Nutmeg,,,Unicorn,,chocolate
+829,,Bread,,,,Dill,Eggs,,,,Nutmeg,Onion,Sugar,Unicorn,Yogurt,
+830,,,Butter,,,,,Ice cream,,Milk,,,,Unicorn,,chocolate
+831,,Bread,,Cheese,Corn,,Eggs,,,Milk,Nutmeg,,Sugar,,,chocolate
+832,,,,Cheese,,,,Ice cream,Kidney Beans,,,,Sugar,,Yogurt,chocolate
+833,Apple,,Butter,,,Dill,,,Kidney Beans,,,,,,,
+834,Apple,Bread,,,,Dill,,,Kidney Beans,Milk,Nutmeg,Onion,,,Yogurt,chocolate
+835,,Bread,,Cheese,Corn,Dill,,Ice cream,,Milk,,Onion,,Unicorn,,chocolate
+836,,,,,,,Eggs,Ice cream,,,,Onion,Sugar,,,
+837,Apple,,Butter,Cheese,,Dill,,,,,,Onion,,Unicorn,Yogurt,
+838,Apple,,Butter,,Corn,Dill,Eggs,Ice cream,Kidney Beans,Milk,,,,Unicorn,,chocolate
+839,,Bread,,,,,,Ice cream,,,Nutmeg,Onion,Sugar,,Yogurt,
+840,Apple,,Butter,,,Dill,,Ice cream,Kidney Beans,,Nutmeg,Onion,,Unicorn,,
+841,,Bread,Butter,Cheese,Corn,,Eggs,,Kidney Beans,,Nutmeg,,,Unicorn,Yogurt,
+842,,,Butter,,,,,,,,,,,,,
+843,,,,,,,Eggs,,,,,,,,,
+844,,Bread,,Cheese,Corn,,,,,,,,,,,
+845,Apple,Bread,,,,Dill,Eggs,,Kidney Beans,Milk,,,Sugar,Unicorn,Yogurt,
+846,Apple,,Butter,,Corn,,,,,,,,,,,
+847,,Bread,,Cheese,Corn,,Eggs,Ice cream,Kidney Beans,Milk,,,Sugar,Unicorn,,
+848,Apple,,Butter,,Corn,,Eggs,,Kidney Beans,Milk,,,,,,chocolate
+849,Apple,,Butter,Cheese,,,,Ice cream,Kidney Beans,Milk,,,,,,
+850,,Bread,,,,Dill,,Ice cream,,,Nutmeg,Onion,Sugar,,Yogurt,
+851,,,,,,,,,,,,Onion,,,,
+852,,Bread,Butter,Cheese,,,,Ice cream,Kidney Beans,Milk,Nutmeg,Onion,Sugar,Unicorn,,
+853,Apple,,Butter,Cheese,,,Eggs,Ice cream,Kidney Beans,Milk,Nutmeg,,Sugar,,Yogurt,chocolate
+854,,Bread,,,Corn,Dill,Eggs,,,,Nutmeg,Onion,Sugar,,,chocolate
+855,,,Butter,Cheese,Corn,,Eggs,,Kidney Beans,Milk,,,Sugar,,,chocolate
+856,Apple,,Butter,Cheese,Corn,,Eggs,Ice cream,,Milk,,Onion,,Unicorn,Yogurt,chocolate
+857,Apple,Bread,Butter,Cheese,,,Eggs,,,,Nutmeg,,,,Yogurt,chocolate
+858,,,Butter,,,,Eggs,,,,,,,,,
+859,Apple,,,,Corn,,Eggs,,,Milk,,,,Unicorn,Yogurt,chocolate
+860,,,,,Corn,Dill,Eggs,Ice cream,,,,,Sugar,,Yogurt,
+861,Apple,Bread,,,,,Eggs,,,,Nutmeg,Onion,,,,
+862,,,,,,Dill,,,Kidney Beans,,,Onion,Sugar,,Yogurt,
+863,Apple,Bread,Butter,Cheese,Corn,,,Ice cream,,,,Onion,Sugar,Unicorn,,chocolate
+864,,Bread,,Cheese,Corn,Dill,,Ice cream,Kidney Beans,Milk,Nutmeg,Onion,,Unicorn,,chocolate
+865,Apple,,,,,,Eggs,Ice cream,,,,,,,Yogurt,
+866,,,,,,,Eggs,,,Milk,,,,,,
+867,Apple,,,,,,Eggs,Ice cream,,Milk,Nutmeg,,,Unicorn,Yogurt,chocolate
+868,Apple,Bread,Butter,,,,,,,,,Onion,,Unicorn,,
+869,,,,,Corn,,,,,Milk,,,Sugar,,,
+870,Apple,Bread,Butter,Cheese,,Dill,,Ice cream,Kidney Beans,,Nutmeg,,,Unicorn,,chocolate
+871,Apple,Bread,Butter,,,,Eggs,,,,,,,Unicorn,,
+872,Apple,,Butter,,,,,Ice cream,,,,Onion,,,Yogurt,chocolate
+873,Apple,,Butter,Cheese,Corn,Dill,Eggs,Ice cream,Kidney Beans,,,Onion,Sugar,Unicorn,Yogurt,
+874,,Bread,,Cheese,,Dill,Eggs,,,Milk,,Onion,,Unicorn,Yogurt,chocolate
+875,,Bread,Butter,,Corn,,,Ice cream,Kidney Beans,,,Onion,,Unicorn,,chocolate
+876,,,Butter,,,Dill,,Ice cream,,Milk,Nutmeg,Onion,Sugar,Unicorn,,chocolate
+877,,Bread,,,Corn,Dill,Eggs,,,,,,,,,chocolate
+878,Apple,Bread,,,Corn,,Eggs,,,Milk,,,,,,
+879,,,Butter,,,,Eggs,Ice cream,Kidney Beans,,,,Sugar,,,chocolate
+880,,Bread,,Cheese,Corn,,Eggs,Ice cream,Kidney Beans,,,,Sugar,,Yogurt,
+881,,Bread,,,,Dill,,,,Milk,,Onion,Sugar,,Yogurt,
+882,Apple,Bread,,Cheese,Corn,,,Ice cream,Kidney Beans,,Nutmeg,,Sugar,Unicorn,Yogurt,chocolate
+883,,Bread,,Cheese,,Dill,,Ice cream,,Milk,,Onion,Sugar,,Yogurt,chocolate
+884,,,Butter,Cheese,Corn,Dill,,,,Milk,Nutmeg,Onion,Sugar,,,
+885,,,,Cheese,,,,,,,,,,,Yogurt,
+886,,,,,,,Eggs,,Kidney Beans,,,,,,Yogurt,
+887,,Bread,,Cheese,,,,,Kidney Beans,,Nutmeg,Onion,,,Yogurt,
+888,Apple,Bread,Butter,,,,,,,,,,Sugar,,Yogurt,
+889,,,,,,,Eggs,,,,,Onion,,Unicorn,,chocolate
+890,,Bread,Butter,Cheese,Corn,Dill,,Ice cream,Kidney Beans,Milk,,Onion,,,Yogurt,chocolate
+891,,,,Cheese,Corn,,,Ice cream,Kidney Beans,,Nutmeg,Onion,,Unicorn,,chocolate
+892,,Bread,Butter,,,,Eggs,Ice cream,,Milk,Nutmeg,Onion,Sugar,Unicorn,,
+893,,Bread,,Cheese,Corn,,,,,Milk,Nutmeg,Onion,,,Yogurt,chocolate
+894,,,,Cheese,,,,,Kidney Beans,,,,Sugar,,,
+895,Apple,,Butter,,,Dill,Eggs,,,Milk,Nutmeg,Onion,,Unicorn,Yogurt,
+896,Apple,Bread,Butter,,,Dill,Eggs,Ice cream,Kidney Beans,Milk,,,Sugar,,,
+897,,,,Cheese,Corn,Dill,Eggs,Ice cream,Kidney Beans,Milk,,,,,Yogurt,chocolate
+898,Apple,Bread,Butter,,Corn,,Eggs,Ice cream,Kidney Beans,Milk,Nutmeg,Onion,Sugar,,,
+899,Apple,,,Cheese,,,Eggs,Ice cream,Kidney Beans,Milk,Nutmeg,,,Unicorn,Yogurt,
+900,Apple,Bread,Butter,Cheese,,Dill,Eggs,,Kidney Beans,Milk,,,Sugar,,,chocolate
+901,,,Butter,,,,,Ice cream,,,,,,,,
+902,,Bread,Butter,Cheese,Corn,,,Ice cream,Kidney Beans,Milk,,,Sugar,,,chocolate
+903,Apple,,,,,,Eggs,,,,,,,,,
+904,Apple,,Butter,,,Dill,,,,Milk,,,Sugar,Unicorn,,chocolate
+905,,Bread,Butter,Cheese,Corn,Dill,,,Kidney Beans,Milk,Nutmeg,Onion,Sugar,,Yogurt,chocolate
+906,,,Butter,Cheese,,,,Ice cream,Kidney Beans,,Nutmeg,,,Unicorn,Yogurt,
+907,Apple,,,Cheese,Corn,Dill,Eggs,,Kidney Beans,Milk,Nutmeg,Onion,,Unicorn,Yogurt,chocolate
+908,Apple,Bread,,Cheese,,,,,Kidney Beans,,Nutmeg,,Sugar,Unicorn,,
+909,,Bread,,,Corn,,Eggs,,Kidney Beans,,,Onion,,,,
+910,Apple,Bread,Butter,Cheese,Corn,,,Ice cream,,,,Onion,,Unicorn,,chocolate
+911,Apple,,Butter,,Corn,Dill,,Ice cream,Kidney Beans,Milk,Nutmeg,Onion,Sugar,,,
+912,,,,,Corn,Dill,,,,,,,,,,
+913,Apple,Bread,,,Corn,Dill,,Ice cream,Kidney Beans,,Nutmeg,,Sugar,,,
+914,Apple,Bread,Butter,,,,,,Kidney Beans,Milk,,Onion,,Unicorn,Yogurt,
+915,,,Butter,,Corn,Dill,,Ice cream,,,Nutmeg,Onion,,,,chocolate
+916,,Bread,Butter,Cheese,Corn,,,Ice cream,,,,Onion,Sugar,Unicorn,Yogurt,chocolate
+917,,,Butter,,,Dill,Eggs,,,,Nutmeg,,Sugar,,Yogurt,
+918,,,Butter,,Corn,Dill,Eggs,,,,Nutmeg,Onion,,,,
+919,,,Butter,,Corn,,Eggs,,Kidney Beans,,Nutmeg,Onion,Sugar,,Yogurt,chocolate
+920,,,,,,,,,,Milk,Nutmeg,,Sugar,,,
+921,Apple,Bread,,Cheese,Corn,,,,Kidney Beans,Milk,Nutmeg,Onion,Sugar,Unicorn,Yogurt,chocolate
+922,Apple,,,,Corn,Dill,,Ice cream,Kidney Beans,Milk,,,,Unicorn,,chocolate
+923,,,Butter,,,Dill,Eggs,,Kidney Beans,,,,,,Yogurt,
+924,,Bread,Butter,,,,,Ice cream,Kidney Beans,Milk,,,,Unicorn,,
+925,,,Butter,,Corn,Dill,,Ice cream,,Milk,,Onion,,Unicorn,,chocolate
+926,,,,,,,,Ice cream,,,Nutmeg,Onion,,,,chocolate
+927,Apple,Bread,Butter,,,,,Ice cream,Kidney Beans,,Nutmeg,Onion,Sugar,Unicorn,Yogurt,chocolate
+928,,,Butter,,,,,Ice cream,Kidney Beans,,,,Sugar,Unicorn,,
+929,,,Butter,,,Dill,Eggs,Ice cream,,Milk,Nutmeg,,,Unicorn,Yogurt,chocolate
+930,Apple,Bread,,Cheese,,,,,,,Nutmeg,Onion,,,,
+931,Apple,Bread,,,Corn,,,Ice cream,,,Nutmeg,Onion,Sugar,Unicorn,,
+932,Apple,,Butter,Cheese,Corn,Dill,,,,,Nutmeg,,Sugar,,Yogurt,chocolate
+933,Apple,Bread,,,Corn,Dill,Eggs,,Kidney Beans,Milk,,,,,Yogurt,chocolate
+934,,,,Cheese,,,,,Kidney Beans,,,Onion,,,,chocolate
+935,,,,Cheese,,Dill,,,,Milk,Nutmeg,,,,,chocolate
+936,,,,Cheese,,,Eggs,,,,,Onion,Sugar,Unicorn,Yogurt,
+937,Apple,,,,,Dill,,,Kidney Beans,Milk,,,,,,
+938,Apple,Bread,Butter,Cheese,Corn,Dill,Eggs,,,Milk,,,,Unicorn,Yogurt,chocolate
+939,,,Butter,,Corn,,,,,,,,,,,
+940,,Bread,Butter,Cheese,,,,,Kidney Beans,,Nutmeg,,Sugar,Unicorn,,chocolate
+941,Apple,,Butter,Cheese,,,Eggs,,,,,Onion,Sugar,,Yogurt,
+942,Apple,Bread,,Cheese,,Dill,Eggs,Ice cream,,Milk,,Onion,,Unicorn,Yogurt,chocolate
+943,,Bread,,,Corn,,,,,,,,,Unicorn,,
+944,Apple,,,Cheese,Corn,Dill,Eggs,,Kidney Beans,,,Onion,Sugar,Unicorn,,chocolate
+945,,,,,,,Eggs,,Kidney Beans,,Nutmeg,,,,Yogurt,
+946,,Bread,Butter,,,Dill,,Ice cream,Kidney Beans,,,,Sugar,,,
+947,Apple,,,,,Dill,,,,Milk,,,Sugar,Unicorn,,
+948,,,,,,Dill,,,,,Nutmeg,,,,,
+949,,Bread,Butter,Cheese,Corn,,Eggs,,Kidney Beans,Milk,,Onion,Sugar,Unicorn,,
+950,,Bread,,,,,,Ice cream,,,,,,Unicorn,,
+951,Apple,Bread,Butter,Cheese,Corn,Dill,,Ice cream,Kidney Beans,,Nutmeg,Onion,Sugar,,,
+952,,Bread,Butter,,Corn,Dill,,Ice cream,Kidney Beans,Milk,Nutmeg,,Sugar,,Yogurt,
+953,,Bread,Butter,Cheese,Corn,,,,,Milk,,,,,,chocolate
+954,,Bread,,Cheese,,,,,,Milk,,,,Unicorn,Yogurt,chocolate
+955,Apple,,,Cheese,Corn,Dill,Eggs,Ice cream,Kidney Beans,Milk,Nutmeg,,Sugar,Unicorn,,
+956,Apple,,,,,Dill,,Ice cream,Kidney Beans,,,,,,,
+957,,,,Cheese,Corn,Dill,Eggs,Ice cream,Kidney Beans,Milk,,,Sugar,,,
+958,,Bread,Butter,,Corn,,Eggs,,Kidney Beans,Milk,Nutmeg,,,Unicorn,Yogurt,
+959,Apple,,,,Corn,Dill,Eggs,,,Milk,,,Sugar,,,
+960,,,,,,,Eggs,,,,,,,,,
+961,Apple,,,Cheese,,Dill,,Ice cream,Kidney Beans,Milk,,Onion,Sugar,Unicorn,Yogurt,
+962,Apple,Bread,,Cheese,Corn,,Eggs,Ice cream,Kidney Beans,Milk,Nutmeg,,,,Yogurt,
+963,,Bread,,Cheese,,,Eggs,,Kidney Beans,,,,Sugar,Unicorn,Yogurt,chocolate
+964,Apple,Bread,,,,,,,Kidney Beans,Milk,Nutmeg,,Sugar,Unicorn,Yogurt,chocolate
+965,,Bread,Butter,Cheese,,,,Ice cream,Kidney Beans,,Nutmeg,,,,Yogurt,chocolate
+966,,,Butter,,,,Eggs,Ice cream,Kidney Beans,Milk,Nutmeg,Onion,Sugar,,Yogurt,chocolate
+967,Apple,,Butter,,Corn,,,Ice cream,,,Nutmeg,,,Unicorn,,
+968,Apple,Bread,Butter,,Corn,,,Ice cream,,,Nutmeg,Onion,,,,chocolate
+969,,Bread,Butter,,Corn,,Eggs,Ice cream,Kidney Beans,Milk,Nutmeg,,,Unicorn,Yogurt,
+970,Apple,,Butter,,Corn,Dill,,,,Milk,Nutmeg,Onion,,Unicorn,Yogurt,chocolate
+971,Apple,,Butter,,,Dill,,,Kidney Beans,Milk,Nutmeg,,,Unicorn,,chocolate
+972,,,Butter,,Corn,Dill,,,,,,,,Unicorn,Yogurt,
+973,,Bread,Butter,,,Dill,,Ice cream,Kidney Beans,Milk,Nutmeg,Onion,,,Yogurt,chocolate
+974,,,,,Corn,,,,,Milk,Nutmeg,Onion,Sugar,,Yogurt,chocolate
+975,,Bread,Butter,Cheese,,Dill,Eggs,Ice cream,Kidney Beans,,,,,Unicorn,,chocolate
+976,,,,,,,,,,,,,,,Yogurt,
+977,,Bread,,,,,,Ice cream,,,,,,,,chocolate
+978,,Bread,Butter,Cheese,Corn,,,Ice cream,Kidney Beans,Milk,Nutmeg,,Sugar,,,
+979,,,Butter,,,,,,,,,Onion,,,,
+980,,,Butter,,,,,,,,,Onion,,,Yogurt,chocolate
+981,Apple,Bread,Butter,,Corn,,Eggs,Ice cream,Kidney Beans,,Nutmeg,,,Unicorn,Yogurt,chocolate
+982,,,,,Corn,Dill,,,,,,Onion,,,,
+983,Apple,,,,,,Eggs,,Kidney Beans,Milk,,,,,,
+984,Apple,,Butter,Cheese,,Dill,Eggs,Ice cream,Kidney Beans,,,,Sugar,Unicorn,,chocolate
+985,,Bread,,Cheese,,Dill,Eggs,Ice cream,Kidney Beans,Milk,Nutmeg,Onion,Sugar,Unicorn,Yogurt,
+986,,,,,,,,,,,Nutmeg,,Sugar,,,
+987,Apple,Bread,Butter,,,,,Ice cream,,Milk,Nutmeg,,,Unicorn,,
+988,Apple,Bread,,,Corn,Dill,,,Kidney Beans,,,Onion,Sugar,,Yogurt,chocolate
+989,,,,,,,Eggs,,,,,,,,,
+990,,,Butter,Cheese,,,Eggs,,,Milk,Nutmeg,Onion,Sugar,Unicorn,,
+991,,Bread,,,,Dill,,Ice cream,,Milk,Nutmeg,,,Unicorn,,chocolate
+992,Apple,,Butter,,Corn,,,Ice cream,Kidney Beans,,,,Sugar,,,
+993,,,Butter,,,Dill,,,,,,Onion,Sugar,Unicorn,,chocolate
+994,,Bread,,,,,Eggs,,,,,,,Unicorn,,chocolate
+995,Apple,,,,Corn,,,,Kidney Beans,Milk,Nutmeg,,,,Yogurt,
+996,Apple,,,,Corn,Dill,,,,,,,Sugar,,,chocolate
+997,,,Butter,Cheese,Corn,,Eggs,Ice cream,Kidney Beans,,Nutmeg,,Sugar,,Yogurt,chocolate
+998,,,,,,,,,,Milk,,,,,,chocolate
