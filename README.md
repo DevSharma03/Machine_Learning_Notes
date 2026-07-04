@@ -1,87 +1,67 @@
-# Machine Learning Notes & Study Material
+# Machine Learning Notes
 
-Welcome to the **Machine Learning Notes & Study Material** repository!  
-This repository is curated for learners and practitioners who want clear, organized, and practical resources on Machine Learning, including notes, study guides, and hands-on examples.
+A collection of my notes, code, and hands-on Jupyter notebooks while learning **Machine Learning** — covering the full workflow from data collection to model building and evaluation.
 
----
+The goal isn't to build production systems here, but to understand core machine learning concepts by implementing them from scratch and working through the theory topic by topic.
 
-## 🗂️ Repository Structure
+## 🗺️ Learning Path
 
-This repository is structured by core topics in machine learning, each with its own directory:
+- [x] Data Collection & Wrangling — gathering and assembling raw data
+- [x] Data Cleaning & Preprocessing — handling missing values, outliers, and formatting
+- [x] Feature Engineering — creating and selecting useful input features
+- [x] Train & Test Data Split — dividing data for training and evaluation
+- [x] Machine Learning Model — building and applying ML models
+- [x] Model Parameters — understanding parameters that define a model
+- [x] Cost Function, Loss Function & Gradient Descent — how models measure and reduce error
+- [x] Cross Validation — evaluating model performance reliably
+- [x] Model Evolution — refining and improving models over time
 
-- **Cost Function, Loss Function & Gradient Descent**  
-- **Cross Validation**  
-- **Data Cleaning & Preprocessing**  
-- **Data Collection & Wrangling**  
-- **Feature Engineering**  
-- **Machine Learning Model**  
-- **Model Evolution**  
-- **Model Parameters**  
-- **Train & Test Data Split**  
-- `Machine Learning Goals.xlsx` — A spreadsheet for tracking ML learning objectives  
-- `LICENSE` — Repository license  
-- `README.md` — This file
+## 📚 Contents
 
-You can browse each folder for detailed notes, code, and explanations.
+| Topic | Description |
+|---|---|
+| [Data Collection & Wrangling](./Data%20Collection%20%26%20Wrangling) | Gathering and assembling raw data |
+| [Data Cleaning & Preprocessing](./Data%20Cleaning%20%26%20Preprocessing) | Handling missing values, outliers, and formatting |
+| [Feature Engineering](./Feature%20Engineering) | Creating and selecting useful input features |
+| [Train & Test Data Split](./Train%20%26%20Test%20Data%20Split) | Dividing data for training and evaluation |
+| [Machine Learning Model](./Machine%20Learning%20Model) | Building and applying ML models |
+| [Model Parameters](./Model%20Parameters) | Understanding parameters that define a model |
+| [Cost Function, Loss Function & Gradient Decent](./Cost%20Function%2C%20Loss%20Function%20%26%20Gradient%20Decent) | How models measure and reduce error |
+| [Cross Validation](./Cross%20Validation) | Evaluating model performance reliably |
+| [Model Evolution](./Model%20Evolution) | Refining and improving models over time |
 
----
+## 📄 Other Files
 
-## 📚 What’s Inside?
+- [`Machine Learning Goals.xlsx`](./Machine%20Learning%20Goals.xlsx) — Spreadsheet for tracking learning objectives
 
-- **Topic-wise Notes:**  
-  Each directory contains summaries, definitions, and explanations of key concepts.
-- **Practical Guides:**  
-  Step-by-step instructions for implementing ML techniques.
-- **Code Examples & Datasets:**  
-  Example scripts and sample data to help reinforce learning.
-- **Study & Revision Material:**  
-  Tips, best practices, and checklists for exams or interviews.
+## 🛠️ Tools & Libraries
 
----
+- Python
+- NumPy
+- Pandas
+- scikit-learn
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
 
-## ✨ Who Is This For?
+## 🎯 Purpose
 
-- **Students** studying ML or preparing for exams/interviews
-- **Self-learners** building foundational knowledge
-- **Educators** seeking teaching material
-- **Anyone** interested in clear, concise ML notes and practical examples
+This repo serves as a personal learning log — a place to practice core machine learning concepts step by step, from data preprocessing and feature engineering to model building and evaluation.
 
----
+## 🚀 How to Use
 
-## 🚀 How To Use
+Clone the repo and open any notebook in Jupyter to follow along:
 
-1. **Clone the repo:**  
-   ```bash
-   git clone https://github.com/DevSharma03/Machine_Learning.git
-   ```
-2. **Explore by topic:**  
-   Browse the folders for notes, guides, and sample code.
-3. **Use the spreadsheet:**  
-   Track your learning progress with `Machine Learning Goals.xlsx`.
-4. **Practice and experiment:**  
-   Apply methods and concepts in your projects using the provided resources.
-
----
+```bash
+git clone https://github.com/DevSharma03/Machine_Learning_Notes.git
+cd Machine_Learning_Notes
+jupyter notebook
+```
 
 ## 🤝 Contributing
 
-Contributions are welcome!  
-If you want to add notes, code, or corrections, please submit a pull request.
-
----
-
-## 📬 Contact
-
-For questions or feedback, open an [issue](https://github.com/DevSharma03/Machine_Learning/issues).
-
----
+This is primarily a personal learning repo, but suggestions, corrections, and pull requests are welcome if you spot something that could be improved.
 
 ## 📄 License
 
-This repository is licensed under the MIT License.  
-Feel free to use, share, or adapt the material, with proper attribution.
-
----
-
-**Happy Learning!**  
-_If you find this repository helpful, please star it on GitHub!_
+This project is licensed under the [MIT License](./LICENSE).
